@@ -1,0 +1,639 @@
+osm_id,osm_type,name,source_raw,method,capacity_raw,operator,latitude,longitude,hybrid,source,source_from_name,capacity_mw,category,capacity_class,log10_capacity,province
+node/7658115634,node,PLN ranting Pagar Alam,,,,,-4.035826,103.2608495,False,unknown,False,,Unknown,,,South Sumatra
+node/14105765137,node,PLTA Renun,hydro,,,,2.7865352,98.5406137,False,hydro,False,,Renewable,,,North Sumatra
+way/29367652,way,PLTGU Muara Karang,gas,combustion,1908 MW,PT Pembangkitan Jawa Bali,-6.1100844,106.784575,False,gas,False,1908.0,Fossil,Very large (>1000 MW),3.2805783703680764,Jakarta Special Capital Region
+way/92905337,way,PLTU Cilacap,coal,combustion,2121 MW,PT Sumber Segara Primadaya,-7.6848962,109.0931198,False,coal,False,2121.0,Fossil,Very large (>1000 MW),3.3265406685165617,Central Java
+way/101264872,way,PLTP Lahendong I & II,geothermal,,40 MW,,1.2545538,124.8221456,False,geothermal,False,40.0,Renewable,Medium (10-100 MW),1.6020599913279623,North Sulawesi
+way/109924603,way,PLTU Tello,coal,combustion,120 MW,,-5.1473815,119.4719989,False,coal,False,120.0,Fossil,Large (100-1000 MW),2.0791812460476247,South Sulawesi
+way/119783797,way,Unnamed,,,,,-8.5442948,118.4439023,False,unknown,False,,Unknown,,,West Nusa Tenggara
+way/138097183,way,Pembangkit Listrik Tenaga Uap Perak,,,,,-7.2080634,112.7229227,False,unknown,False,,Unknown,,,East Java
+way/150155344,way,PLTD Tenau,diesel,combustion,6.4 MW,,-10.1884429,123.5464335,False,oil,False,6.4,Fossil,Small (<10 MW),0.8061799739838872,East Nusa Tenggara
+way/165616503,way,PLTD Bau-bau,,,,PLN,-5.4578141,122.5984835,False,oil,True,,Fossil,,,Southeast Sulawesi
+way/166624588,way,Star Energy Geothermal Salak,geothermal,,183 MW,Star Energy Geothermal,-6.7405243,106.6728159,False,geothermal,False,183.0,Renewable,Large (100-1000 MW),2.2624510897304293,West Java
+way/166699718,way,PLTU Cirebon Unit 1,coal,combustion,660 MW,PT Cirebon Electric Power,-6.771152,108.6156734,False,coal,False,660.0,Fossil,Large (100-1000 MW),2.8195439355418688,West Java
+way/167369571,way,Unnamed,geothermal,,,,-6.7363711,106.6696355,False,geothermal,False,,Renewable,,,West Java
+way/167369572,way,Unnamed,geothermal,,,,-6.745843,106.6414132,False,geothermal,False,,Renewable,,,West Java
+way/173552269,way,PLTU Jeranjang,coal,combustion,90 MW,Indonesia Power,-8.6602738,116.0722918,False,coal,False,90.0,Fossil,Medium (10-100 MW),1.954242509439325,West Nusa Tenggara
+way/174363561,way,PLTU Waai,coal,,30 MW,,-3.5505619,128.333643,False,coal,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,Maluku
+way/181495712,way,Bili Bili Bendungan,hydro,,19.25 MW,,-5.2808747,119.5830648,False,hydro,False,19.25,Renewable,Medium (10-100 MW),1.2844307338445196,South Sulawesi
+way/186109191,way,PLTD Koba,diesel,,5 MW,,-2.4999692,106.4013528,False,oil,False,5.0,Fossil,Small (<10 MW),0.6989700043360189,Bangka-Belitung Islands
+way/188467200,way,PLTS Morotai,solar,photovoltaic,600 kWp,PT PLN,2.0049563,128.2828028,False,solar,False,0.6,Renewable,Small (<10 MW),-0.2218487496163564,North Maluku
+way/195105317,way,PLTU Tanjung Jati B,coal,combustion,4640 MW,PT Pembangkitan Jawa Bali,-6.4470482,110.7426922,False,coal,False,4640.0,Fossil,Very large (>1000 MW),3.6665179805548807,Central Java
+way/203604070,way,PLTU 400 MW PT Krakatau Chandra Energi,gas,combustion,400 MW,PT Krakatau Chandra Energi,-5.9937986,105.9834238,False,gas,False,400.0,Fossil,Large (100-1000 MW),2.6020599913279625,Banten
+way/221102796,way,PLN Parepare,,,,Perusahaan Listrik Negara,-4.0103858,119.6234754,False,unknown,False,,Unknown,,,South Sulawesi
+way/230478896,way,PLTS Gili Trawangan,solar,photovoltaic,600 kW,Perusahaan Listrik Negara,-8.3540858,116.0382681,False,solar,False,0.6,Renewable,Small (<10 MW),-0.2218487496163564,West Nusa Tenggara
+way/230689630,way,PLTS Gili Air,solar,photovoltaic,160 kW,PLN Persero,-8.3572501,116.0800007,False,solar,False,0.16,Renewable,Small (<10 MW),-0.7958800173440752,West Nusa Tenggara
+way/230785724,way,PLTA Tulungagung,hydro,,35.72 MW,PT Pembangkitan Jawa Bali,-8.2531883,111.7939406,False,hydro,False,35.72,Renewable,Medium (10-100 MW),1.552911450216509,East Java
+way/231666840,way,PLTS Gili Meno,solar,photovoltaic,60 kW,PLN,-8.3486132,116.057367,False,solar,False,0.06,Renewable,Small (<10 MW),-1.2218487496163564,West Nusa Tenggara
+way/237756221,way,PLTP Wayang Windu,geothermal,,225.17 MW,Star Energy Geothermal,-7.1979719,107.6259776,False,geothermal,False,225.17,Renewable,Large (100-1000 MW),2.352510527820731,West Java
+way/238069084,way,PLTA Plengan,hydro,run-of-the-river,6.87 MW,Indonesia Power,-7.1687677,107.5538124,False,hydro,False,6.87,Renewable,Small (<10 MW),0.8369567370595504,West Java
+way/238272778,way,Lau Renun hydro,hydro,,82 MW,PT. PLN,2.7865021,98.5405475,False,hydro,False,82.0,Renewable,Medium (10-100 MW),1.9138138523837167,North Sumatra
+way/239759321,way,PLTDG Pesanggaran,gas,combustion,325 MW,Indonesia Power,-8.7177819,115.2112913,False,gas,False,325.0,Fossil,Large (100-1000 MW),2.5118833609788744,Bali
+way/244246232,way,PLTD Wolomarang,diesel,combustion,3 MW,,-8.5967197,122.1905953,False,oil,False,3.0,Fossil,Small (<10 MW),0.47712125471966244,East Nusa Tenggara
+way/244815714,way,PLTU PT Semen Tonasa Indonesia,coal,combustion,yes,,-4.8162413,119.4998642,False,coal,False,,Fossil,,,South Sulawesi
+way/254334992,way,PLTU Tanjung Balai Karimun,coal,combustion,14 MW,,1.0419781,103.4202689,False,coal,False,14.0,Fossil,Medium (10-100 MW),1.146128035678238,Riau Islands
+way/255192635,way,PLTA Jatiluhur,hydro,water-storage,180 MW,Perum Jasa Tirta II,-6.5220082,107.3892187,False,hydro,False,180.0,Renewable,Large (100-1000 MW),2.255272505103306,West Java
+way/257613250,way,Unnamed,hydro,,126 MW,,-3.4798128,119.6515739,False,hydro,False,126.0,Renewable,Large (100-1000 MW),2.100370545117563,South Sulawesi
+way/257725639,way,Unnamed,,,yes,,-3.9706446,119.6246386,False,unknown,False,,Unknown,,,South Sulawesi
+way/257725642,way,Unnamed,,,yes,,-3.9703677,119.6245589,False,unknown,False,,Unknown,,,South Sulawesi
+way/257725648,way,Unnamed,,,yes,,-3.970314,119.6249861,False,unknown,False,,Unknown,,,South Sulawesi
+way/262153181,way,PLTA Mendalan,hydro,water-storage,20.7 MW,PT Pembangkitan Jawa Bali,-7.8558747,112.3219827,False,hydro,False,20.7,Renewable,Medium (10-100 MW),1.3159703454569178,East Java
+way/262153183,way,PLTA Siman,hydro,water-storage,10.2 MW,PT Pembangkitan Jawa Bali,-7.8291099,112.3081502,False,hydro,False,10.2,Renewable,Medium (10-100 MW),1.0086001717619175,East Java
+way/262452224,way,PLTA Sutami,hydro,water-storage,103 MW,PT Pembangkitan Jawa Bali,-8.1613555,112.4441829,False,hydro,False,103.0,Renewable,Large (100-1000 MW),2.012837224705172,East Java
+way/268796622,way,PLTA Wadaslintang,hydro,water-storage,18 MW,Indonesia Power,-7.6095298,109.7794284,False,hydro,False,18.0,Renewable,Medium (10-100 MW),1.255272505103306,Central Java
+way/268796623,way,PLTA Garung,hydro,,26.4 MW,Indonesia Power,-7.2922895,109.9216996,False,hydro,False,26.4,Renewable,Medium (10-100 MW),1.421603926869831,Central Java
+way/269098785,way,PLTU Labuan Banten,coal,combustion,600 MW,Indonesia Power,-6.393699,105.8296988,False,coal,False,600.0,Fossil,Large (100-1000 MW),2.7781512503836434,Banten
+way/269492237,way,PLTU Indramayu,coal,combustion,990 MW,PT Pembangkitan Jawa Bali,-6.2755073,107.9719225,False,coal,False,990.0,Fossil,Large (100-1000 MW),2.99563519459755,West Java
+way/269508907,way,PLTGU Muara Tawar,gas,combustion,2593 MW,PT Pembangkitan Jawa Bali,-6.086259,106.9985262,False,gas,False,2593.0,Fossil,Very large (>1000 MW),3.4138025167693513,West Java
+way/270788980,way,PLTU Pacitan,coal,combustion,630 MW,PT Pembangkitan Jawa Bali,-8.260091,111.3741397,False,coal,False,630.0,Fossil,Large (100-1000 MW),2.7993405494535817,East Java
+way/271376029,way,Star Energy Geothermal Darajat,geothermal,,225.17 MW,Star Energy Geothermal,-7.2177854,107.7275125,False,geothermal,False,225.17,Renewable,Large (100-1000 MW),2.352510527820731,West Java
+way/271991719,way,PLTA Panglima Besar Soedirman,hydro,water-storage,180.9 MW,,-7.3952258,109.6054097,False,hydro,False,180.9,Renewable,Large (100-1000 MW),2.257438566859814,Central Java
+way/277183762,way,PLTGU Belawan,gas,,720 MW,,3.7724229,98.668286,False,gas,False,720.0,Fossil,Large (100-1000 MW),2.8573324964312685,North Sumatra
+way/280246818,way,PLTA Ubrug,hydro,,18.36 MW,Indonesia Power,-6.9499858,106.7551839,False,hydro,False,18.36,Renewable,Medium (10-100 MW),1.2638726768652235,West Java
+way/284137273,way,PLTA Selorejo,hydro,water-storage,4.5 MW,,-7.8733171,112.3518016,False,hydro,False,4.5,Renewable,Small (<10 MW),0.6532125137753437,East Java
+way/284166407,way,KANTOR,,,,PLN,3.8244057,96.7596275,False,unknown,False,,Unknown,,,Aceh
+way/284402692,way,PLTD Siantan Kalbar,oil,combustion,30 MW,Perusahaan Listrik Negara,-0.001087,109.3276215,False,oil,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,West Kalimantan
+way/286552971,way,PLN Desa Waci,,,,,0.5959631,128.4762468,False,unknown,False,,Unknown,,,North Maluku
+way/291881492,way,PLTU Majene,,,,,-3.5402107,118.9698514,False,coal,True,,Fossil,,,West Sulawesi
+way/304324906,way,PLTA Ketenger,hydro,,8.54 MW,Indonesia Power,-7.333515,109.2199531,False,hydro,False,8.54,Renewable,Small (<10 MW),0.931457870689005,Central Java
+way/305656358,way,Unnamed,,,,,-2.7116553,121.3084577,False,unknown,False,,Unknown,,,South Sulawesi
+way/306631715,way,Unnamed,,,,,-5.3956369,122.6261601,False,unknown,False,,Unknown,,,Southeast Sulawesi
+way/306631716,way,Unnamed,,,,,-5.3247856,122.642418,False,unknown,False,,Unknown,,,Southeast Sulawesi
+way/307271432,way,PLTU Rembang,coal,combustion,630 MW,PT Pembangkitan Jawa Bali,-6.6346891,111.4743362,False,coal,False,630.0,Fossil,Large (100-1000 MW),2.7993405494535817,Central Java
+way/321541350,way,PLTU Nagan Raya,coal,combustion,200 MW,Perusahaan Listrik Negara,4.1054362,96.1977401,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,Aceh
+way/329719280,way,PLTU Labuhan Angin,coal,combustion,230 MW,,1.7516492,98.7310234,False,coal,False,230.0,Fossil,Large (100-1000 MW),2.361727836017593,North Sumatra
+way/329730421,way,PLTA Sipansihaporas II,hydro,,33 MW,,1.7360892,98.8437366,False,hydro,False,33.0,Renewable,Medium (10-100 MW),1.5185139398778875,North Sumatra
+way/333361524,way,PLTPB Sibayak,geothermal,,12 MW,Pertamina Geothermal Energy;Dizamatra Powerindo,3.2262088,98.5137747,False,geothermal,False,12.0,Renewable,Medium (10-100 MW),1.0791812460476249,North Sumatra
+way/337762452,way,PLTU Sebalang,coal,,200 MW,PT PLN,-5.5853215,105.3883594,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,Lampung
+way/340912781,way,Unit Pembangkit Listrik Paiton,coal,combustion,4710 MW,PT PLN Nusantara Power,-7.7129411,113.5826364,False,coal,False,4710.0,Fossil,Very large (>1000 MW),3.673020907128896,East Java
+way/340978686,way,PLTGU Grati,gas,combustion,1424.66 MW,Indonesia Power,-7.6485367,113.0247313,False,gas,False,1424.66,Fossil,Very large (>1000 MW),3.1537112308412003,East Java
+way/353964382,way,PLTU MSW,coal,combustion,60 MW,,-2.1585393,115.4458201,False,coal,False,60.0,Fossil,Medium (10-100 MW),1.7781512503836436,South Kalimantan
+way/360110172,way,PLTMG Bima,gas,combustion,50 MW,PLN,-8.4110034,118.6999845,False,gas,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,West Nusa Tenggara
+way/367586568,way,PLTGU Sengkang,gas,combustion,180 MW,,-4.1761207,120.0725884,False,gas,False,180.0,Fossil,Large (100-1000 MW),2.255272505103306,South Sulawesi
+way/373369943,way,PLTD Gunung Malang,diesel,,16 MW,Perusahaan Listrik Negara,-1.2625591,116.8413592,False,oil,False,16.0,Fossil,Medium (10-100 MW),1.2041199826559248,East Kalimantan
+way/377005221,way,PLTU Holtekamp,coal,combustion,24 MW,Indonesia Power,-2.6144744,140.790386,False,coal,False,24.0,Fossil,Medium (10-100 MW),1.380211241711606,Papua
+way/391581020,way,PLTU Tidore,coal,,14 MW,,0.7392645,127.3882774,False,coal,False,14.0,Fossil,Medium (10-100 MW),1.146128035678238,North Maluku
+way/399022979,way,PT PLN,,,,PT Perusahaan Listrik Negara,-6.260325,106.8688348,False,unknown,False,,Unknown,,,Jakarta Special Capital Region
+way/399038178,way,PLTU Banten Lontar,coal,combustion,1260 MW,Indonesia Power,-6.0590709,106.4640428,False,coal,False,1260.0,Fossil,Very large (>1000 MW),3.100370545117563,Banten
+way/399421491,way,Unnamed,,,,,0.6569413,122.8861349,False,unknown,False,,Unknown,,,Gorontalo
+way/399714487,way,PLTU Barru,coal,combustion,100 MW,Indonesia Power,-4.2940266,119.6297586,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,South Sulawesi
+way/410503813,way,PLN Cabang Magepanda,,,,,-8.5360286,122.0463851,False,unknown,False,,Unknown,,,East Nusa Tenggara
+way/416518494,way,PLTD & PLTG Trisakti,diesel;gas,combustion,111 MW,PLN,-3.3102183,114.5703126,True,oil,False,111.0,Fossil,Large (100-1000 MW),2.0453229787866576,South Kalimantan
+way/424006224,way,PLTP Lahendong III & IV,geothermal,,40 MW,,1.2719574,124.836059,False,geothermal,False,40.0,Renewable,Medium (10-100 MW),1.6020599913279623,North Sulawesi
+way/450527117,way,PLTGU Tanjung Batu,gas,,60 MW,,-0.3823542,117.0519962,False,gas,False,60.0,Fossil,Medium (10-100 MW),1.7781512503836436,East Kalimantan
+way/450527118,way,PLTU Embalut,coal,combustion,110 MW,,-0.3715316,117.062746,False,coal,False,110.0,Fossil,Large (100-1000 MW),2.041392685158225,East Kalimantan
+way/450924241,way,PLTU Teluk Sirih,coal,,224 MW,,-1.0766611,100.3715873,False,coal,False,224.0,Fossil,Large (100-1000 MW),2.3502480183341627,West Sumatra
+way/465906682,way,PLTD/G Teluk Lembu,gas,combustion,21.6 MW,PT. Riau Power Satu,0.5489611,101.462182,False,gas,False,21.6,Fossil,Medium (10-100 MW),1.334453751150931,Riau
+way/468197327,way,Lueng Bata Power Plant,,,,,5.5387773,95.3412835,False,unknown,False,,Unknown,,,Aceh
+way/473523398,way,PLTG Pauh Limo,gas,combustion,49 MW,,-0.9343952,100.433046,False,gas,False,49.0,Fossil,Medium (10-100 MW),1.6901960800285136,West Sumatra
+way/475470080,way,KAWASAN,,,,,-3.6815781,120.4308049,False,unknown,False,,Unknown,,,South Sulawesi
+way/477973326,way,PEMBANGKIT LISTRIK TENAGA ANGIN,,,,,-5.9395093,107.0982709,False,unknown,False,,Unknown,,,West Java
+way/489477958,way,PT PLN Penyaluran dan Pusat Pengatur Beban Jawa - Bali,,,,PT Perusahaan Listrik Negara,-6.2355201,106.8215306,False,unknown,False,,Unknown,,,Jakarta Special Capital Region
+way/493218545,way,PLTU Celukan Bawang,coal,combustion,380 MW,PT General Energy Bali,-8.1974788,114.8536333,False,coal,False,380.0,Fossil,Large (100-1000 MW),2.57978359661681,Bali
+way/500456306,way,PLN Cabangbungin,,,,,-6.0762703,107.1440675,False,unknown,False,,Unknown,,,West Java
+way/501327305,way,PLTMG Seram,gas,combustion,20 MW,,-3.3062485,128.9463252,False,gas,False,20.0,Fossil,Medium (10-100 MW),1.3010299956639813,Maluku
+way/502428291,way,Unnamed,,,,,-6.3837778,107.1349718,False,unknown,False,,Unknown,,,West Java
+way/504810894,way,PLTU Paluh Kurau,coal,,300 MW,,3.7804962,98.6347121,False,coal,False,300.0,Fossil,Large (100-1000 MW),2.4771212547196626,North Sumatra
+way/508067180,way,PTLD Batakan,diesel,,4 MW,PLN,-1.2386724,116.9503976,False,oil,False,4.0,Fossil,Small (<10 MW),0.6020599913279624,East Kalimantan
+way/510104811,way,The National Electricity Company Property,,,,,-6.1653853,106.6889502,False,unknown,False,,Unknown,,,Banten
+way/511391884,way,PLTA Renun,,,,,2.7944567,98.4975714,False,hydro,True,,Renewable,,,North Sumatra
+way/515587640,way,Pembangkit Listrik Tenaga Surya,solar,,1 MW,PT Buana Energi Surya Persada,-9.5391303,120.2227955,False,solar,False,1.0,Renewable,Small (<10 MW),0.0,East Nusa Tenggara
+way/519229505,way,GARDU PLN,,,,,-6.6202643,106.8143893,False,unknown,False,,Unknown,,,West Java
+way/519748910,way,PLTS Bunaken,solar,photovoltaic,330 kWp,PT.PLN,1.5988466,124.777528,False,solar,False,0.33,Renewable,Small (<10 MW),-0.4814860601221125,North Sulawesi
+way/522713233,way,PLTS Pulau Tiga,solar,photovoltaic,75 kW,,-3.6530298,127.9064399,False,solar,False,0.075,Renewable,Small (<10 MW),-1.1249387366083,Maluku
+way/523434345,way,solar power plant,solar,photovoltaic,yes,,1.6193773,124.7028212,False,solar,False,,Renewable,,,North Sulawesi
+way/524347910,way,PLTD Senayan,diesel,combustion,100.98 MW,Indonesia Power,-6.2153958,106.7949435,False,oil,False,100.98,Fossil,Large (100-1000 MW),2.0042353663594676,Jakarta Special Capital Region
+way/524519157,way,PLTU Lombok Timur,coal,,50 MW,,-8.4329047,116.7054789,False,coal,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,West Nusa Tenggara
+way/524803973,way,Gedung PLTD Pulau Panggang,,,,,-5.7408683,106.6026116,False,oil,True,,Fossil,,,Banten
+way/527176121,way,Unnamed,,,,PT Perusahaan Listrik Negara,-9.6742626,120.2276152,False,unknown,False,,Unknown,,,East Nusa Tenggara
+way/527695410,way,PLTGU Gunung Megang,gas,,150 MW,,-3.506523,103.7992502,False,gas,False,150.0,Fossil,Large (100-1000 MW),2.1760912590556813,South Sumatra
+way/528512460,way,PLTA Musi,hydro,run-of-the-river,210 MW,,-3.5930447,102.4835863,False,hydro,False,210.0,Renewable,Large (100-1000 MW),2.322219294733919,Bengkulu
+way/528916594,way,PLTU Tenayan Raya,coal,combustion,220 MW,,0.5636818,101.5233476,False,coal,False,220.0,Fossil,Large (100-1000 MW),2.342422680822206,Riau
+way/530303610,way,PLTU Jawa 7,coal,combustion,2100 MW,PT SGPJB,-5.9918823,106.1055836,False,coal,False,2100.0,Fossil,Very large (>1000 MW),3.322219294733919,Banten
+way/531143189,way,PLTP Ulubelu,geothermal,,220 MW,PLN,-5.3076656,104.5748938,False,geothermal,False,220.0,Renewable,Large (100-1000 MW),2.342422680822206,Lampung
+way/531146249,way,PLTU Suralaya,coal,combustion,4025 MW,Indonesia Power,-5.8892925,106.0311877,False,coal,False,4025.0,Fossil,Very large (>1000 MW),3.6047658847038875,Banten
+way/531146292,way,PLTU Merak Energi Indonesia,coal,combustion,120 MW,,-5.8833741,106.0643003,False,coal,False,120.0,Fossil,Large (100-1000 MW),2.0791812460476247,Banten
+way/531599678,way,Genset,,,,,-7.5363944,110.2627606,False,unknown,False,,Unknown,,,Central Java
+way/533599433,way,PLTMH Bungin 1,hydro,,yes,,-3.520907,119.9351449,False,hydro,False,,Renewable,,,South Sulawesi
+way/542904306,way,PLTMG Arun I,gas,,184 MW,PT Pembangkitan Jawa Bali,5.2162499,97.0899019,False,gas,False,184.0,Fossil,Large (100-1000 MW),2.2648178230095364,Aceh
+way/543959909,way,PLTU Air Anyir,coal,combustion,60 MW,PT PLN Sektor Pembangkitan Bangka Belitung,-2.0775568,106.1496436,False,coal,False,60.0,Fossil,Medium (10-100 MW),1.7781512503836436,Bangka-Belitung Islands
+way/548479670,way,PLTU TIGA,,,,,-6.7873693,108.6540498,False,coal,True,,Fossil,,,West Java
+way/548692967,way,Bendungan Pembangkit Listrik Mikro,,,,goverment,-5.336733,104.3247913,False,unknown,False,,Unknown,,,Lampung
+way/549604296,way,PLTGU Bekasi Power,gas,combustion,118.8 MW,Bekasi Power,-6.2701676,107.1591988,False,gas,False,118.8,Fossil,Large (100-1000 MW),2.074816440645175,West Java
+way/558200147,way,PLTA Koto Panjang,hydro,,114 MW,,0.2907544,100.881924,False,hydro,False,114.0,Renewable,Large (100-1000 MW),2.0569048513364727,Riau
+way/558289605,way,PLTA Wlingi,hydro,,53.62 MW,PT Pembangkitan Jawa Bali,-8.1417117,112.2477736,False,hydro,False,53.62,Renewable,Medium (10-100 MW),1.7293268096468608,East Java
+way/560638469,way,PLTU Palabuhan Ratu,coal,combustion,1050 MW,Indonesia Power,-7.02259,106.5464052,False,coal,False,1050.0,Fossil,Very large (>1000 MW),3.0211892990699383,West Java
+way/561591953,way,PLTA Kedung Ombo,hydro,water-storage,22.5 MW,Indonesia Power,-7.2560075,110.8378828,False,hydro,False,22.5,Renewable,Medium (10-100 MW),1.3521825181113625,Central Java
+way/561746042,way,PLTA Pejengkolan,hydro,run-of-the-river,1.4 MW,Indonesia Power,-7.6595626,109.7719566,False,hydro,False,1.4,Renewable,Small (<10 MW),0.146128035678238,Central Java
+way/563399561,way,PLTU Sanggau,coal,combustion,17 MW,Indonesia Power,0.0297497,110.555892,False,coal,False,17.0,Fossil,Medium (10-100 MW),1.2304489213782739,West Kalimantan
+way/563399562,way,PLTU Sintang,coal,combustion,27 MW,Indonesia Power,0.0739163,111.43339,False,coal,False,27.0,Fossil,Medium (10-100 MW),1.4313637641589874,West Kalimantan
+way/563399569,way,PLTU Kalbar-2,coal,combustion,55 MW,Perusahaan Listrik Negara,0.8300932,108.863233,False,coal,False,55.0,Fossil,Medium (10-100 MW),1.7403626894942439,West Kalimantan
+way/564749763,way,PLTG Gilimanuk,gas,combustion,133.8 MW,Indonesia Power,-8.1749306,114.4420497,False,gas,False,133.8,Fossil,Large (100-1000 MW),2.1264561134318045,Bali
+way/564749764,way,PLTA Saguling,hydro,water-storage,700.72 MW,Indonesia Power,-6.8646138,107.350105,False,hydro,False,700.72,Renewable,Large (100-1000 MW),2.8455445133344206,West Java
+way/573633098,way,PLTU Kaltim Teluk,coal,combustion,250 MW,,-1.1700853,116.7884605,False,coal,False,250.0,Fossil,Large (100-1000 MW),2.3979400086720375,East Kalimantan
+way/593568043,way,Listrik,,,,,1.4132501,125.0900732,False,unknown,False,,Unknown,,,North Sulawesi
+way/597434946,way,PLTA-MH,,,,,-8.7162892,121.9746966,False,hydro,True,,Renewable,,,East Nusa Tenggara
+way/599504349,way,Unnamed,,,,,1.0752172,104.0228053,False,unknown,False,,Unknown,,,Riau Islands
+way/602039121,way,PLTMG Baloi,gas,combustion,30 MW,,1.115555,104.020618,False,gas,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,Riau Islands
+way/602391607,way,Unnamed,hydro,,yes,,0.5369478,120.5401551,False,hydro,False,,Renewable,,,Central Sulawesi
+way/602689146,way,PLTA Asahan 1,hydro,water-storage,180 MW,,2.5117949,99.2603324,False,hydro,False,180.0,Renewable,Large (100-1000 MW),2.255272505103306,North Sumatra
+way/602689154,way,PLTA Sigura-Gura,hydro,water-storage,286 MW,,2.5206126,99.2802997,False,hydro,False,286.0,Renewable,Large (100-1000 MW),2.456366033129043,North Sumatra
+way/604841861,way,PLTB Sidrap,wind,wind_turbine,75 MW,Perusahaan Listrik Negara,-3.9780347,119.7099494,False,wind,False,75.0,Renewable,Medium (10-100 MW),1.8750612633917,South Sulawesi
+way/605159168,way,Booster PAM,,,,,-2.9917363,104.7965226,False,unknown,False,,Unknown,,,South Sumatra
+way/607542063,way,Unnamed,,,,,-4.111108,138.9268303,False,unknown,False,,Unknown,,,Papua
+way/608005581,way,PLTGU Panaran,gas,combustion,164 MW,Mitra Energi Batam,1.0135851,104.0068031,False,gas,False,164.0,Fossil,Large (100-1000 MW),2.214843848047698,Riau Islands
+way/610023526,way,PLTU Pangkalan Susu,coal,combustion,440 MW,Indonesia Power,4.1196588,98.2585572,False,coal,False,440.0,Fossil,Large (100-1000 MW),2.6434526764861874,North Sumatra
+way/610198178,way,PLTG Talang Duku,gas,,60 MW,,-2.8628747,104.1348459,False,gas,False,60.0,Fossil,Medium (10-100 MW),1.7781512503836436,South Sumatra
+way/611478867,way,PLTU Asam Asam,coal,combustion,260 MW,PLN,-3.9271515,115.1052189,False,coal,False,260.0,Fossil,Large (100-1000 MW),2.4149733479708178,South Kalimantan
+way/611547067,way,PLTD Kuala Kapuas,diesel,combustion,10 MW,,-3.0123226,114.3727892,False,oil,False,10.0,Fossil,Small (<10 MW),1.0,Central Kalimantan
+way/611547068,way,PLTD Seberang Barito,diesel;gas,combustion,45 MW,Perusahaan Listrik Negara,-3.2768161,114.5525672,True,oil,False,45.0,Fossil,Medium (10-100 MW),1.6532125137753437,South Kalimantan
+way/611647727,way,PLTD Maburai,diesel,combustion,5 MW,PLN,-2.1966964,115.4505238,False,oil,False,5.0,Fossil,Small (<10 MW),0.6989700043360189,South Kalimantan
+way/611789533,way,PLTU Bolok,coal,,33 MW,,-10.2393253,123.4913586,False,coal,False,33.0,Fossil,Medium (10-100 MW),1.5185139398778875,East Nusa Tenggara
+way/612348764,way,PLTG Sambera,gas,,40 MW,,-0.3161946,117.2924034,False,gas,False,40.0,Fossil,Medium (10-100 MW),1.6020599913279623,East Kalimantan
+way/613098761,way,PLTA Riam Kanan,hydro,water-storage,30 MW,PLN,-3.5147851,115.0064707,False,hydro,False,30.0,Renewable,Medium (10-100 MW),1.4771212547196624,South Kalimantan
+way/613865135,way,PLTD Kahayan Baru,diesel,combustion,10 MW,,-2.1732838,113.8736172,False,oil,False,10.0,Fossil,Small (<10 MW),1.0,Central Kalimantan
+way/614077557,way,PLTU Amamapare,coal,combustion,255 MW,PT Puncak Jaya Power,-4.8275311,136.8377098,False,coal,False,255.0,Fossil,Large (100-1000 MW),2.406540180433955,Papua
+way/614569627,way,PLTU Atapupu,,,,,-9.005082,124.8180958,False,coal,True,,Fossil,,,East Nusa Tenggara
+way/614805877,way,PLTU Tanjung Kasam,coal,,130 MW,TJK Power,1.04422,104.1333958,False,coal,False,130.0,Fossil,Large (100-1000 MW),2.113943352306837,Riau Islands
+way/621794946,way,PLTGU Indralaya,gas,combustion,130 MW,,-3.207056,104.6562593,False,gas,False,130.0,Fossil,Large (100-1000 MW),2.113943352306837,South Sumatra
+way/623185709,way,Pusat Listrik Sei Gelam,gas,combustion,yes,,-1.6746401,103.6778833,False,gas,False,,Fossil,,,Jambi
+way/626597111,way,PLTU Ombilin,coal,,200 MW,Perusahaan Listrik Negara,-0.6092886,100.7533007,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,West Sumatra
+way/629897974,way,Unnamed,,,,,-2.9241708,132.2998941,False,unknown,False,,Unknown,,,West Papua
+way/629897975,way,Unnamed,,,,,-2.9242267,132.2998318,False,unknown,False,,Unknown,,,West Papua
+way/629897976,way,Unnamed,,,,,-2.9242345,132.3000589,False,unknown,False,,Unknown,,,West Papua
+way/629897977,way,PLTD Fakfak,,,,,-2.9238711,132.2998361,False,oil,True,,Fossil,,,West Papua
+way/629897978,way,Unnamed,,,,,-2.9240543,132.2997122,False,unknown,False,,Unknown,,,West Papua
+way/639281144,way,PLTD Koto Lolo,diesel,,21 MW,Perusahaan Listrik Negara,-2.0461477,101.3888984,False,oil,False,21.0,Fossil,Medium (10-100 MW),1.3222192947339193,Jambi
+way/659971480,way,PLTD Fakfak,,,,,-2.9240617,132.2998544,False,oil,True,,Fossil,,,West Papua
+way/662173157,way,PLTGU Priok,gas,combustion,2720 MW,Indonesia Power,-6.1084173,106.8683823,False,gas,False,2720.0,Fossil,Very large (>1000 MW),3.4345689040341987,Jakarta Special Capital Region
+way/662978699,way,PLTU Simpang Belimbing,coal,combustion,300 MW,GH EMM Indonesia,-3.4009037,104.1180164,False,coal,False,300.0,Fossil,Large (100-1000 MW),2.4771212547196626,South Sumatra
+way/674867131,way,PLN,,,,PLN,1.4726561,102.1113448,False,unknown,False,,Unknown,,,Riau
+way/692066654,way,PLTG Batamindo Industrial Park,gas,combustion,114 MW,,1.0642729,104.0258208,False,gas,False,114.0,Fossil,Large (100-1000 MW),2.0569048513364727,Riau Islands
+way/694589974,way,PLTU Banten Serang,coal,combustion,625 MW,PT Lestari Banten Energi,-5.8808614,106.044809,False,coal,False,625.0,Fossil,Large (100-1000 MW),2.7958800173440754,Banten
+way/694710543,way,PLTGU Cilegon,gas,combustion,740 MW,Indonesia Power,-5.930147,106.1076526,False,gas,False,740.0,Fossil,Large (100-1000 MW),2.8692317197309762,Banten
+way/694792625,way,PLTGU Jababeka,gas,combustion,755 MW,PT Cikarang Listrindo Power Company,-6.2908692,107.1214088,False,gas,False,755.0,Fossil,Large (100-1000 MW),2.8779469516291885,West Java
+way/695654438,way,JIIPE Power Plant,gas,combustion,23 MW,Berkah Kawasan Manyar Sejahtera,-7.089401,112.6069291,False,gas,False,23.0,Fossil,Medium (10-100 MW),1.3617278360175928,East Java
+way/695724354,way,Unnamed,,,,,0.1754368,117.4980245,False,unknown,False,,Unknown,,,East Kalimantan
+way/695901591,way,BIntan Resort Power Plant,diesel,combustion,8.2 MW,Bintan Resort Cakrawala,1.1558176,104.3750431,False,oil,False,8.2,Fossil,Small (<10 MW),0.9138138523837167,Riau Islands
+way/700049077,way,PLTS Tomia,,,,,-5.7270549,123.898004,False,solar,True,,Renewable,,,Southeast Sulawesi
+way/700049329,way,PLN Tomia,,,,,-5.7239741,123.904285,False,unknown,False,,Unknown,,,Southeast Sulawesi
+way/704205371,way,PLTS Cirata,solar,photovoltaic,1 MW,PT Pembangkitan Jawa Bali,-6.6739464,107.3544486,False,solar,False,1.0,Renewable,Small (<10 MW),0.0,West Java
+way/704229858,way,PLTD Bitung,diesel,,17 MW,,1.4459126,125.1888268,False,oil,False,17.0,Fossil,Medium (10-100 MW),1.2304489213782739,North Sulawesi
+way/705296597,way,PLTGU Gresik,gas,combustion,1924 MW,PT Pembangkitan Jawa Bali,-7.1645136,112.6641738,False,gas,False,1924.0,Fossil,Very large (>1000 MW),3.284205067701794,East Java
+way/706118077,way,PLTU Tanjung Awar-Awar,coal,combustion,700 MW,PT Pembangkitan Jawa Bali,-6.8089608,111.996493,False,coal,False,700.0,Fossil,Large (100-1000 MW),2.845098040014257,East Java
+way/706971183,way,PLTGU Tanjung Uncang & IPP Batam,gas,combustion,120 MW,,1.0903717,103.9004288,False,gas,False,120.0,Fossil,Large (100-1000 MW),2.0791812460476247,Riau Islands
+way/707043779,way,PLTU Sumbawa Barat,coal,,14 MW,Perusahaan Listrik Negara,-8.7411446,116.777658,False,coal,False,14.0,Fossil,Medium (10-100 MW),1.146128035678238,West Nusa Tenggara
+way/708321376,way,Pembangkit Listrik Tata Jabar,gas,,30 MW,Tata Jabar,-6.4364649,107.4533576,False,gas,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,West Java
+way/713843113,way,Kantor TPSA Desa Babakan,,,,,-7.0820651,107.6863987,False,unknown,False,,Unknown,,,West Java
+way/716898232,way,PLTMG Kupang,gas,,40 MW,,-10.353854,123.4593698,False,gas,False,40.0,Fossil,Medium (10-100 MW),1.6020599913279623,East Nusa Tenggara
+way/719550864,way,PLTU Bukit Asam,coal,combustion,260 MW,,-3.7314036,103.797662,False,coal,False,260.0,Fossil,Large (100-1000 MW),2.4149733479708178,South Sumatra
+way/721674156,way,PLTP Sarulla II,geothermal,,220 MW,PLN,1.8879656,99.0263576,False,geothermal,False,220.0,Renewable,Large (100-1000 MW),2.342422680822206,North Sumatra
+way/721674157,way,PLTP Sarulla I,geothermal,,110 MW,PLN,1.820782,99.0886277,False,geothermal,False,110.0,Renewable,Large (100-1000 MW),2.041392685158225,North Sumatra
+way/721696769,way,Sumbagut 2 Peaker Power Plant,gas,combustion,250 MW,PT PLN (Persero),5.2140487,97.0869756,False,gas,False,250.0,Fossil,Large (100-1000 MW),2.3979400086720375,Aceh
+way/730262328,way,PLTP Lahendong V & VI,geothermal,,40 MW,Pertamina,1.1740035,124.7958047,False,geothermal,False,40.0,Renewable,Medium (10-100 MW),1.6020599913279623,North Sulawesi
+way/740518065,way,Genset Gedung KWU UNNES,diesel,combustion,yes,,-7.049358,110.3944539,False,oil,False,,Fossil,,,Central Java
+way/750989307,way,PLTU Berau,coal,combustion,yes,,2.1565688,117.3924228,False,coal,False,,Fossil,,,East Kalimantan
+way/772768598,way,PLTS Jakabaring,solar,photovoltaic,1.6 MW,,-3.0105344,104.7910651,False,solar,False,1.6,Renewable,Small (<10 MW),0.2041199826559248,South Sumatra
+way/796875771,way,PLTD Selayar,diesel,combustion,13.19 MW,,-6.0480979,120.4583156,False,oil,False,13.19,Fossil,Medium (10-100 MW),1.1202447955463652,South Sulawesi
+way/797018876,way,PLTS Terpusat Kabaena Timur Desa Tapahuka,solar,photovoltaic,200 kW,,-5.3062963,122.0425541,False,solar,False,0.2,Renewable,Small (<10 MW),-0.6989700043360187,Southeast Sulawesi
+way/797070548,way,PLTS Kubu Karangasem Bali,solar,photovoltaic,1 MW,PLN,-8.2549683,115.5646793,False,solar,False,1.0,Renewable,Small (<10 MW),0.0,Bali
+way/797077394,way,PLTA Cirata,hydro,water-storage,1008 MW,PT Pembangkitan Jawa Bali,-6.6828539,107.3483108,False,hydro,False,1008.0,Renewable,Very large (>1000 MW),3.0034605321095067,West Java
+way/797095277,way,Unnamed,,,,,-3.6223442,102.4526119,False,unknown,False,,Unknown,,,Bengkulu
+way/797095278,way,Unnamed,,,,,-3.6148936,102.4617555,False,unknown,False,,Unknown,,,Bengkulu
+way/797136333,way,PLTB Tolo 1 Jeneponto,wind,wind_turbine,yes,,-5.6292833,119.763657,False,wind,False,,Renewable,,,South Sulawesi
+way/797745630,way,PLTS Kayubihi Bangli,solar,photovoltaic,1 MW,PLN,-8.3542304,115.366877,False,solar,False,1.0,Renewable,Small (<10 MW),0.0,Bali
+way/798987869,way,PLTS Oelpuah,solar,photovoltaic,5 MW,PT Lembaga Elektronik Nasional (LEN),-10.1469168,123.7486233,False,solar,False,5.0,Renewable,Small (<10 MW),0.6989700043360189,East Nusa Tenggara
+way/799249943,way,PLTS Tahalupu,solar,photovoltaic,100 kW,,-3.231044,127.6552233,False,solar,False,0.1,Renewable,Small (<10 MW),-1.0,Maluku
+way/800388453,way,PLTD Pilang,diesel,,5 MW,,-2.7585933,107.6481523,False,oil,False,5.0,Fossil,Small (<10 MW),0.6989700043360189,Bangka-Belitung Islands
+way/804341585,way,PLTU Batang,coal,combustion,2000 MW,PT Bhimasema Power Indonesia,-6.9019219,109.8056338,False,coal,False,2000.0,Fossil,Very large (>1000 MW),3.3010299956639813,Central Java
+way/814022610,way,PLTU Tanjung Enim,coal,combustion,yes,PT Bukit Energi Servis Terpadu (PT BEST),-3.7281238,103.8073538,False,coal,False,,Fossil,,,South Sumatra
+way/834536854,way,Unnamed,solar,photovoltaic,yes,,-5.8629638,120.511037,False,solar,False,,Renewable,,,South Sulawesi
+way/845393015,way,Unnamed,hydro,run-of-the-river,,,-8.7601128,120.5704061,False,hydro,False,,Renewable,,,East Nusa Tenggara
+way/847485082,way,PLTD Tallo Lama,,,,,-5.1104814,119.4396704,False,oil,True,,Fossil,,,South Sulawesi
+way/853225728,way,PLTMH Cibatarua,hydro,,5 MW,,-7.4204039,107.6868564,False,hydro,False,5.0,Renewable,Small (<10 MW),0.6989700043360189,West Java
+way/856953020,way,Unnamed,,,,,-6.9352199,107.7302883,False,unknown,False,,Unknown,,,West Java
+way/872005243,way,PLTU Kalbar-1,coal,combustion,200 MW,,0.8174175,108.843188,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,West Kalimantan
+way/872005244,way,PLTU Bengkayang,coal,combustion,100 MW,,0.8371708,108.8737929,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,West Kalimantan
+way/894329107,way,PLTMG Jayapura,gas,combustion,40 MW,,-2.6163241,140.7913037,False,gas,False,40.0,Fossil,Medium (10-100 MW),1.6020599913279623,Papua
+way/894351121,way,PLTA Rajamandala,hydro,,46.6 MW,PT Rajamandala Electric Power,-6.8565222,107.3408165,False,hydro,False,46.6,Renewable,Medium (10-100 MW),1.6683859166900001,West Java
+way/894351124,way,PLTG MM-2100,gas,combustion,109 MW,PT Cikarang Listrindo Power Company,-6.3100866,107.1143925,False,gas,False,109.0,Fossil,Large (100-1000 MW),2.037426497940624,West Java
+way/894351126,way,PLTA Sengguruh,hydro,,28.46 MW,PT Pembangkitan Jawa Bali,-8.1837248,112.5491911,False,hydro,False,28.46,Renewable,Medium (10-100 MW),1.4542348957482656,East Java
+way/894351127,way,PLTA Jelok,hydro,,20.48 MW,Indonesia Power,-7.2440749,110.4812721,False,hydro,False,20.48,Renewable,Medium (10-100 MW),1.3113299523037931,Central Java
+way/894351130,way,PLTU Cirebon Unit 2,coal,combustion,660 MW,PT Cirebon Electric Power,-6.7748962,108.630605,False,coal,False,660.0,Fossil,Large (100-1000 MW),2.8195439355418688,West Java
+way/894351131,way,PLTA Curugluhur,hydro,,yes,,-7.234321,106.8160639,False,hydro,False,,Renewable,,,West Java
+way/894351135,way,PLTG Pemaron,gas,combustion,97.6 MW,Indonesia Power,-8.1354153,115.0597903,False,gas,False,97.6,Fossil,Medium (10-100 MW),1.9894498176666917,Bali
+way/894351143,way,PLTP Patuha,geothermal,,55 MW,PT Geo Dipa Energi,-7.1840027,107.4225616,False,geothermal,False,55.0,Renewable,Medium (10-100 MW),1.7403626894942439,West Java
+way/894351144,way,PLTP Darajad,geothermal,,55 MW,Indonesia Power,-7.2155509,107.7379485,False,geothermal,False,55.0,Renewable,Medium (10-100 MW),1.7403626894942439,West Java
+way/894351145,way,PLTP Gunung Salak,geothermal,,180 MW,Indonesia Power,-6.7416735,106.6466609,False,geothermal,False,180.0,Renewable,Large (100-1000 MW),2.255272505103306,West Java
+way/894351146,way,PLTU Jawa Tengah 2,coal,combustion,660 MW,Indonesia Power,-7.6849163,109.137226,False,coal,False,660.0,Fossil,Large (100-1000 MW),2.8195439355418688,Central Java
+way/894351150,way,PLTGU Tambak Lorok,gas,combustion,2014 MW,Indonesia Power,-6.9503683,110.4323048,False,gas,False,2014.0,Fossil,Very large (>1000 MW),3.3040594662175993,Central Java
+way/896115176,way,PLTA Jatigede,hydro,,110 MW,,-6.8329592,108.1052998,False,hydro,False,110.0,Renewable,Large (100-1000 MW),2.041392685158225,West Java
+way/902235362,way,Unnamed,solar,photovoltaic,yes,,4.7156949,96.8374803,False,solar,False,,Renewable,,,Aceh
+way/902235363,way,Unnamed,solar,photovoltaic,yes,,4.7163391,96.8387733,False,solar,False,,Renewable,,,Aceh
+way/905955777,way,PLTU Jeneponto,coal,combustion,250 MW,,-5.6181198,119.5501444,False,coal,False,250.0,Fossil,Large (100-1000 MW),2.3979400086720375,South Sulawesi
+way/909882416,way,PLTS Selong,solar,photovoltaic,5 MW,,-8.6586347,116.5764427,False,solar,False,5.0,Renewable,Small (<10 MW),0.6989700043360189,West Nusa Tenggara
+way/909882419,way,PLTS Pringgabaya,solar,photovoltaic,5 MW,,-8.5183317,116.6319336,False,solar,False,5.0,Renewable,Small (<10 MW),0.6989700043360189,West Nusa Tenggara
+way/909882421,way,PLTS Sambelia,solar,photovoltaic,5 MW,,-8.4326717,116.6923678,False,solar,False,5.0,Renewable,Small (<10 MW),0.6989700043360189,West Nusa Tenggara
+way/909882422,way,PLTS Sengkol,solar,photovoltaic,5 MW,,-8.7936325,116.2945573,False,solar,False,5.0,Renewable,Small (<10 MW),0.6989700043360189,West Nusa Tenggara
+way/914010995,way,Perawang Mill Power Plant,coal,combustion,yes,,0.6936879,101.6199939,False,coal,False,,Fossil,,,Riau
+way/914011000,way,Perawang Mill Power Plant,coal,combustion,yes,,0.6844962,101.6177586,False,coal,False,,Fossil,,,Riau
+way/917199954,way,PLTU Sumsel 5,coal,combustion,300 MW,,-2.155187,103.7562482,False,coal,False,300.0,Fossil,Large (100-1000 MW),2.4771212547196626,South Sumatra
+way/919274063,way,PLTU Parit Baru (FTP1),coal,combustion,100 MW,Perusahaan Listrik Negara,0.0586762,109.2032589,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,West Kalimantan
+way/926323064,way,PLTU Keban Agung,coal,combustion,270 MW,,-3.7520802,103.6454265,False,coal,False,270.0,Fossil,Large (100-1000 MW),2.4313637641589874,South Sumatra
+way/929160635,way,PLTU Sambelia,coal,combustion,100 MW,,-8.4225888,116.7102636,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,West Nusa Tenggara
+way/929881495,way,PLTGU Jawa-2 Power Project,gas,combustion,yes,,-6.1081907,106.8701718,False,gas,False,,Fossil,,,Jakarta Special Capital Region
+way/930242884,way,PLTA Singkarak,hydro,,175 MW,,-0.6221396,100.349172,False,hydro,False,175.0,Renewable,Large (100-1000 MW),2.2430380486862944,West Sumatra
+way/930242896,way,PLTA Maninjau,hydro,,68 MW,,-0.3107109,100.1166728,False,hydro,False,68.0,Renewable,Medium (10-100 MW),1.8325089127062364,West Sumatra
+way/930719085,way,PLTU Bengkulu,coal,combustion,200 MW,,-3.9126533,102.2720473,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,Bengkulu
+way/930833477,way,PLTG Glugur,gas,combustion,44 MW,,3.6159362,98.6686635,False,gas,False,44.0,Fossil,Medium (10-100 MW),1.6434526764861874,North Sumatra
+way/930833481,way,PLTG Paya Pasir,gas,,75 MW,,3.7146521,98.6663822,False,gas,False,75.0,Fossil,Medium (10-100 MW),1.8750612633917,North Sumatra
+way/931931104,way,PLTP Lumut Balai,geothermal,,110 MW,,-4.1979192,103.6485919,False,geothermal,False,110.0,Renewable,Large (100-1000 MW),2.041392685158225,South Sumatra
+way/931931106,way,PLTA Semangka,hydro,,56 MW,,-5.3901596,104.3848747,False,hydro,False,56.0,Renewable,Medium (10-100 MW),1.7481880270062005,Lampung
+way/931931108,way,PLTA Besai,hydro,,90 MW,PLN,-4.944151,104.5096645,False,hydro,False,90.0,Renewable,Medium (10-100 MW),1.954242509439325,Lampung
+way/931931152,way,PLTD Tegineneng,diesel,,28.5 MW,,-5.1839942,105.1739671,False,oil,False,28.5,Fossil,Medium (10-100 MW),1.4548448600085102,Lampung
+way/937059859,way,PLTS Maumere,solar,photovoltaic,2 MW,,-8.6296498,122.3282918,False,solar,False,2.0,Renewable,Small (<10 MW),0.3010299956639812,East Nusa Tenggara
+way/937059861,way,PLTMG Maumere,gas,,40 MW,,-8.6198021,122.3410147,False,gas,False,40.0,Fossil,Medium (10-100 MW),1.6020599913279623,East Nusa Tenggara
+way/937059862,way,"Komplek PLTMG Sumbawa 1, 2, dan 3",diesel;gas,combustion,80 MW,"PT. PLN Nusantara Power, PT. PLN Indonesia Power",-8.4484182,117.3367175,True,oil,False,80.0,Fossil,Medium (10-100 MW),1.9030899869919435,West Nusa Tenggara
+way/937059863,way,PLTU Ropa,coal,,14 MW,,-8.5106178,121.6998428,False,coal,False,14.0,Fossil,Medium (10-100 MW),1.146128035678238,East Nusa Tenggara
+way/937059866,way,PLTMG Flores,gas,,20 MW,,-8.4611927,119.9434399,False,gas,False,20.0,Fossil,Medium (10-100 MW),1.3010299956639813,East Nusa Tenggara
+way/937059867,way,PLTG Ulumbu,geothermal,,10 MW,,-8.7260519,120.4355139,False,geothermal,False,10.0,Renewable,Small (<10 MW),1.0,East Nusa Tenggara
+way/938146456,way,PLTP Sorik Marapi,geothermal,,240 MW,,0.7150503,99.5707052,False,geothermal,False,240.0,Renewable,Large (100-1000 MW),2.380211241711606,North Sumatra
+way/939125618,way,North Duri Cogeneration Plant,gas,combustion,300 MW,,1.3723051,101.2255963,False,gas,False,300.0,Fossil,Large (100-1000 MW),2.4771212547196626,Riau
+way/939125620,way,PLTMG Balai Pungut,coal,,200 MW,,1.0732598,101.2811511,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,Riau
+way/939125630,way,PLTU Koto Ringin,coal,combustion,6,,0.8266724,102.0653312,False,coal,False,6.0,Fossil,Small (<10 MW),0.7781512503836436,Riau
+way/940047516,way,PLTGU Musi II,gas,,30 MW,,-3.0256146,104.7169483,False,gas,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,South Sumatra
+way/940047517,way,PLTG Borang,gas,combustion,yes,,-2.9228194,104.8721878,False,gas,False,,Fossil,,,South Sumatra
+way/940047518,way,Palembang Timur Power Plant,gas,,150 MW,,-2.9285278,104.8706872,False,gas,False,150.0,Fossil,Large (100-1000 MW),2.1760912590556813,South Sumatra
+way/940047527,way,PLTD Sungai Juaro,diesel,,25 MW,,-2.9678089,104.8091881,False,oil,False,25.0,Fossil,Medium (10-100 MW),1.3979400086720377,South Sumatra
+way/940526241,way,PLTU Banjarsari,coal,combustion,270 MW,PT Bukit Pembangkit Innovative,-3.7244961,103.6902133,False,coal,False,270.0,Fossil,Large (100-1000 MW),2.4313637641589874,South Sumatra
+way/940979321,way,PLTMG Sorong,gas,,50 MW,,-1.0205161,131.2469853,False,gas,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,West Papua
+way/941364097,way,PLTS Cirata,solar,photovoltaic,192 MW,Pembangkitan Jawa Bali Masdar Solar Energi,-6.7040068,107.334109,False,solar,False,192.0,Renewable,Large (100-1000 MW),2.2833012287035497,West Java
+way/941566464,way,PLTU Takalar (Punagaya-2),coal,combustion,200 MW,,-5.6253685,119.5500928,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,South Sulawesi
+way/942620063,way,PLTU Anggrek,coal,combustion,50 MW,,0.8507011,122.7965578,False,coal,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,Gorontalo
+way/942620064,way,PLTU Sulbagut 3,coal,,100 MW,,0.4346558,123.1353852,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,Gorontalo
+way/942620065,way,PLTG Gorontalo,gas,,100 MW,,0.4662618,122.0060992,False,gas,False,100.0,Fossil,Medium (10-100 MW),2.0,Gorontalo
+way/943189957,way,PLTU Nii Tanasa (20 MW) & PLTMG Kendari (58 MW),coal;oil,combustion,,,-3.8950056,122.5374029,True,coal,False,,Fossil,,,Southeast Sulawesi
+way/943189958,way,PLTU Kendari 3 DSSA,coal,,100 MW,,-4.050323,122.654079,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,Southeast Sulawesi
+way/943309157,way,PLTU Amurang,coal,,60 MW,,1.1833413,124.4793945,False,coal,False,60.0,Fossil,Medium (10-100 MW),1.7781512503836436,North Sulawesi
+way/943309158,way,PLTD Lopana,diesel,,10 MW,,1.2202036,124.6035024,False,oil,False,10.0,Fossil,Small (<10 MW),1.0,North Sulawesi
+way/943309161,way,PLTA Tanggari II,hydro,,19 MW,,1.3646916,124.9379477,False,hydro,False,19.0,Renewable,Medium (10-100 MW),1.2787536009528289,North Sulawesi
+way/943309162,way,PLTA Tanggari I,hydro,,18 MW,,1.3488147,124.9234503,False,hydro,False,18.0,Renewable,Medium (10-100 MW),1.255272505103306,North Sulawesi
+way/943309164,way,PLTS Likupang,solar,photovoltaic,15 MW,,1.6554339,125.0944729,False,solar,False,15.0,Renewable,Medium (10-100 MW),1.1760912590556813,North Sulawesi
+way/943309171,way,PLTU Sulut 3,coal,,100 MW,,1.3735403,125.0852412,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,North Sulawesi
+way/943366985,way,Arun Aceh LNG Gas Power Plant,gas,combustion,yes,,5.2249277,97.0780487,False,gas,False,,Fossil,,,Aceh
+way/943966216,way,PLTMG Tanjung Selor,gas,,15 MW,,2.8134715,117.3671633,False,gas,False,15.0,Fossil,Medium (10-100 MW),1.1760912590556813,North Kalimantan
+way/943966217,way,PLTD Sambaliung,diesel,,10 MW,,2.1575228,117.5113113,False,oil,False,10.0,Fossil,Small (<10 MW),1.0,East Kalimantan
+way/944504857,way,PLTU Tanjung Bara,coal,,64 MW,,0.5403338,117.6357811,False,coal,False,64.0,Fossil,Medium (10-100 MW),1.806179973983887,East Kalimantan
+way/944504860,way,PLTU Kaltim 2,coal,combustion,200 MW,,0.0548391,117.4937733,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,East Kalimantan
+way/944916493,way,PLTU Batu Hijau,coal,combustion,112 MW,PT Amman Mineral Nusa Tenggara,-8.9015418,116.7401426,False,coal,False,112.0,Fossil,Large (100-1000 MW),2.0492180226701815,West Nusa Tenggara
+way/945128872,way,PLTU Muara Jawa,coal,,55 MW,,-0.7802248,117.1883726,False,coal,False,55.0,Fossil,Medium (10-100 MW),1.7403626894942439,East Kalimantan
+way/945128875,way,PLTGU Senipah,gas,combustion,117 MW,,-0.9871918,117.1358469,False,gas,False,117.0,Fossil,Large (100-1000 MW),2.0681858617461617,East Kalimantan
+way/945128881,way,PLTD Girimukti,diesel,,20 MW,,-1.3411832,116.6713701,False,oil,False,20.0,Fossil,Medium (10-100 MW),1.3010299956639813,East Kalimantan
+way/945128883,way,PLTU Tabalong,coal,combustion,200 MW,,-2.1632372,115.4412353,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,South Kalimantan
+way/945128888,way,PLTMG Bangkanai,gas,combustion,155 MW,,-0.6229549,115.137459,False,gas,False,155.0,Fossil,Large (100-1000 MW),2.1903316981702914,Central Kalimantan
+way/946699119,way,Sinar Mas Jambi Lontar Power Plant,,,,,-1.0077707,103.0821877,False,unknown,False,,Unknown,,,Jambi
+way/948167520,way,PLTU Galang Batang,coal,combustion,200 MW,,0.9070262,104.6266815,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,Riau Islands
+way/948167521,way,PLTD Batu Ampar,diesel,,10 MW,,1.1786981,104.0226732,False,oil,False,10.0,Fossil,Small (<10 MW),1.0,Riau Islands
+way/950292849,way,PLTMG Luwuk,gas,combustion,40 MW,Perusahaan Listrik Negara,-1.3263278,122.4987494,False,gas,False,40.0,Fossil,Medium (10-100 MW),1.6020599913279623,Central Sulawesi
+way/951367598,way,PLTMG Ternate,gas,combustion,30 MW,,0.7667497,127.3062418,False,gas,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,North Maluku
+way/951367599,way,PLTD Kayu Merah,diesel,,25 MW,,0.7608672,127.3705052,False,oil,False,25.0,Fossil,Medium (10-100 MW),1.3979400086720377,North Maluku
+way/951367601,way,PLTU Sofifi,coal,combustion,6 MW,,0.6492723,127.5412237,False,coal,False,6.0,Fossil,Small (<10 MW),0.7781512503836436,North Maluku
+way/953023894,way,PLTD Padang,diesel,,5 MW,,-2.8670846,108.2535495,False,oil,False,5.0,Fossil,Small (<10 MW),0.6989700043360189,Bangka-Belitung Islands
+way/953023896,way,PLTU Suge,coal,combustion,33 MW,,-2.8929037,107.5637904,False,coal,False,33.0,Fossil,Medium (10-100 MW),1.5185139398778875,Bangka-Belitung Islands
+way/955122312,way,Kalselteng-1 Power Plant,,,,,-1.3733024,113.5674728,False,unknown,False,,Unknown,,,Central Kalimantan
+way/956594055,way,PLTA Air Putih,hydro,,21 MW,,-3.0731025,102.1468811,False,hydro,False,21.0,Renewable,Medium (10-100 MW),1.3222192947339193,Bengkulu
+way/956594057,way,PLTA Lebong,hydro,,14 MW,,-3.1905433,102.306329,False,hydro,False,14.0,Renewable,Medium (10-100 MW),1.146128035678238,Bengkulu
+way/956594058,way,PLTA Tes,hydro,,18 MW,,-3.2067037,102.3181629,False,hydro,False,18.0,Renewable,Medium (10-100 MW),1.255272505103306,Bengkulu
+way/956594059,way,PLTD Suka Merindu,diesel,,33 MW,,-3.7878255,102.268821,False,oil,False,33.0,Fossil,Medium (10-100 MW),1.5185139398778875,Bengkulu
+way/957085166,way,PLTA Wampu,hydro,,45 MW,,3.2549323,98.212291,False,hydro,False,45.0,Renewable,Medium (10-100 MW),1.6532125137753437,North Sumatra
+way/958109271,way,PLTA Batutegi,hydro,,90 MW,,-5.25557,104.7828233,False,hydro,False,90.0,Renewable,Medium (10-100 MW),1.954242509439325,Lampung
+way/958172154,way,PLTA Hasang,hydro,,39 MW,,2.2989375,99.474152,False,hydro,False,39.0,Renewable,Medium (10-100 MW),1.591064607026499,North Sumatra
+way/958172156,way,PLTA Tangga,hydro,,317 MW,,2.5606618,99.3098214,False,hydro,False,317.0,Renewable,Large (100-1000 MW),2.5010592622177517,North Sumatra
+way/958644942,way,PLTD Aneuk Laot,diesel,,4 MW,,5.8749983,95.3278944,False,oil,False,4.0,Fossil,Small (<10 MW),0.6020599913279624,Aceh
+way/958644943,way,PLTD Cot Abeuk,diesel,,6 MW,,5.8555154,95.345612,False,oil,False,6.0,Fossil,Small (<10 MW),0.7781512503836436,Aceh
+way/958644944,way,PLTD Seurapong,diesel,,0.5 MW,,5.6696603,95.0755434,False,oil,False,0.5,Fossil,Small (<10 MW),-0.3010299956639812,Aceh
+way/958644945,way,PLTD Deudap,diesel,,0.3 MW,,5.6084823,95.171582,False,oil,False,0.3,Fossil,Small (<10 MW),-0.5228787452803376,Aceh
+way/960747876,way,PLTU DSS,coal,combustion,85 MW,Dian Swastatika Sentosa,-6.3251623,107.3146033,False,coal,False,85.0,Fossil,Medium (10-100 MW),1.9294189257142926,West Java
+way/960747901,way,PLTGU Jawa-1,gas,combustion,1760 MW,Pertamina Power,-6.2444359,107.5908172,False,gas,False,1760.0,Fossil,Very large (>1000 MW),3.24551266781415,West Java
+way/963054356,way,PLTG Indocement,gas,,,,-6.4829769,106.8915408,False,gas,False,,Fossil,,,West Java
+way/966209461,way,PLTA Kracak,hydro,,18.9 MW,,-6.6169502,106.6439089,False,hydro,False,18.9,Renewable,Medium (10-100 MW),1.276461804173244,West Java
+way/967994503,way,Cilegon Krakatau Posco Power Plant,waste_heat;gas,,200 MW,,-6.0071,105.9713524,True,unknown,False,200.0,Unknown,Large (100-1000 MW),2.3010299956639813,Banten
+way/977107476,way,PLTSa Benowo,waste,,12 MW,,-7.2177599,112.6256508,False,bioenergy,False,12.0,Renewable,Medium (10-100 MW),1.0791812460476249,East Java
+way/981847861,way,Incinerator,waste,combustion,yes,,-6.8983476,112.0478533,False,bioenergy,False,,Renewable,,,East Java
+way/1003491141,way,PLTU Mamuju,coal,combustion,50 MW,,-2.4708695,119.1458523,False,coal,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,West Sulawesi
+way/1003539536,way,PLTU Palu,coal,combustion,30 MW,,-0.7333093,119.8558081,False,coal,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,Central Sulawesi
+way/1004332811,way,PLTA Malea,hydro,,90 MW,,-3.188974,119.7490775,False,hydro,False,90.0,Renewable,Medium (10-100 MW),1.954242509439325,South Sulawesi
+way/1004332815,way,PLTD Suppa,diesel,combustion,62.2 MW,,-3.9706287,119.6247411,False,oil,False,62.2,Fossil,Medium (10-100 MW),1.7937903846908188,South Sulawesi
+way/1010246303,way,PLTA Bengkok,hydro,water-storage,3.2 MW,Indonesia Power,-6.8618973,107.6248043,False,hydro,False,3.2,Renewable,Small (<10 MW),0.505149978319906,West Java
+way/1028155968,way,PLTD Banua Lima Unit Barabai,diesel,combustion,6 MW,PLN,-2.5917148,115.3734585,False,oil,False,6.0,Fossil,Small (<10 MW),0.7781512503836436,South Kalimantan
+way/1028155969,way,PLTD Banua Lima Unit Panangkalaan,diesel,combustion,8.7 MW,PLN,-2.4050013,115.2626125,False,oil,False,8.7,Fossil,Small (<10 MW),0.9395192526186185,South Kalimantan
+way/1034545850,way,MV Karadeniz Powership Onur Sultan,gas,combustion,yes,,3.7755498,98.6697348,False,gas,False,,Fossil,,,North Sumatra
+way/1038827131,way,Unnamed,,,,,-6.9010964,112.0417199,False,unknown,False,,Unknown,,,East Java
+way/1042007577,way,Unnamed,solar,,,,0.7744364,114.2787485,False,solar,False,,Renewable,,,East Kalimantan
+way/1042007733,way,Unnamed,solar,,,,0.7701449,114.2737324,False,solar,False,,Renewable,,,East Kalimantan
+way/1043457651,way,Unnamed,solar,photovoltaic,yes,,3.6130338,115.6975726,False,solar,False,,Renewable,,,North Kalimantan
+way/1052212667,way,PLTU Semaran,biomass,,,,-2.1243999,102.8527342,False,bioenergy,False,,Renewable,,,Jambi
+way/1054024013,way,Unnamed,,,,PLN,-2.5911956,121.2822398,False,unknown,False,,Unknown,,,South Sulawesi
+way/1068853130,way,Unnamed,,,yes,Indonesia Power,-6.8880592,112.0343827,False,unknown,False,,Unknown,,,East Java
+way/1068853131,way,Unnamed,,,yes,Indonesia Power,-6.8869492,112.0332109,False,unknown,False,,Unknown,,,East Java
+way/1068853132,way,Unnamed,,,yes,Indonesia Power,-6.8859321,112.0329914,False,unknown,False,,Unknown,,,East Java
+way/1068853133,way,Unnamed,,,yes,Indonesia Power,-6.8858549,112.0323428,False,unknown,False,,Unknown,,,East Java
+way/1072665332,way,PLTG Sunyaragi 2,gas,combustion,72 MW,Perusahaan Listrik Negara,-6.7368136,108.5399113,False,gas,False,72.0,Fossil,Medium (10-100 MW),1.8573324964312685,West Java
+way/1081219367,way,PLTU Antam Pomalaa,coal,combustion,60 MW,,-4.1800836,121.5933145,False,coal,False,60.0,Fossil,Medium (10-100 MW),1.7781512503836436,Southeast Sulawesi
+way/1082807974,way,PLTMG Dullah,gas,combustion,,,-5.5550791,132.7721921,False,gas,False,,Fossil,,,Maluku
+way/1097929002,way,SPPBE PT. Bitcom Asri Energi,gas,combustion,yes,,-7.3580812,109.3550202,False,gas,False,,Fossil,,,Central Java
+way/1098612561,way,PLTU Tjiwi Kimia,coal,combustion,30 MW,,-7.4366288,112.4695943,False,coal,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,East Java
+way/1102958475,way,PLTU Asahimas Chemical,coal,combustion,300 MW,,-6.0239045,105.9426962,False,coal,False,300.0,Fossil,Large (100-1000 MW),2.4771212547196626,Banten
+way/1103596061,way,Unnamed,gas,combustion,yes,,1.1876303,124.4785981,False,gas,False,,Fossil,,,North Sulawesi
+way/1107800132,way,Riau (MRPR) Power Plant,,,,,0.5396725,101.5205226,False,unknown,False,,Unknown,,,Riau
+way/1111934026,way,Unnamed,solar,photovoltaic,yes,,-4.0398451,119.6755871,False,solar,False,,Renewable,,,South Sulawesi
+way/1118436421,way,Morowali Industrial Park Sulawesi Mining Power Station,,,,,-2.8286624,122.1557261,False,unknown,False,,Unknown,,,Central Sulawesi
+way/1121250705,way,PLTMG Baubau,gas,combustion,30 MW,,-5.3961013,122.6274121,False,gas,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,Southeast Sulawesi
+way/1121250706,way,PLTU Baruta,coal,combustion,14 MW,,-5.323365,122.6413318,False,coal,False,14.0,Fossil,Medium (10-100 MW),1.146128035678238,Southeast Sulawesi
+way/1121717386,way,PLTMG Timika,gas,combustion,10 MW,,-4.7534102,136.7675772,False,gas,False,10.0,Fossil,Small (<10 MW),1.0,Papua
+way/1127696139,way,Waterkracht Centrale Koerandji,hydro,run-of-the-river,,,-0.9067185,100.456433,False,hydro,False,,Renewable,,,West Sumatra
+way/1134331383,way,Lombok New Peaker Steam Gas Engine Power Plant,gas,combustion,136 MW,,-8.5899158,116.0744654,False,gas,False,136.0,Fossil,Large (100-1000 MW),2.1335389083702174,West Nusa Tenggara
+way/1148695448,way,PLTU Kaltim-4,coal,combustion,200 MW,,-0.3644715,117.0651993,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,East Kalimantan
+way/1149620760,way,MIN 4 Maluku Tengah,,,,PLN,-3.3831064,129.5496582,False,unknown,False,,Unknown,,,Maluku
+way/1149623514,way,PLN Tehoru,,,,PLN,-3.381894,129.5488676,False,unknown,False,,Unknown,,,Maluku
+way/1150889689,way,PLTS Long Nawang,solar,,,,1.7825724,114.9051424,False,solar,False,,Renewable,,,North Kalimantan
+way/1151107028,way,PLTD Long Nawang,oil,combustion,yes,Perusahaan Listrik Negara,1.7949122,114.8948056,False,oil,False,,Fossil,,,North Kalimantan
+way/1152758557,way,PLTU Weda Bay Power Plant（韦达贝燃煤发电厂）,coal,combustion,yes,,0.4765027,128.0013922,False,coal,False,,Fossil,,,North Maluku
+way/1164608628,way,PLTS Werua,solar,,,,-3.4746024,134.0059452,False,solar,False,,Renewable,,,West Papua
+way/1164613430,way,PLTS Sara,solar,,,,-3.4938104,133.979851,False,solar,False,,Renewable,,,West Papua
+way/1168320730,way,Delong Nickel Phase II Power Station,coal,combustion,yes,,-3.8281962,122.4656052,False,coal,False,,Fossil,,,Southeast Sulawesi
+way/1178166875,way,PLTU Kalteng-1 Pulang Pisau,coal,combustion,120 MW,,-2.8245463,114.2117965,False,coal,False,120.0,Fossil,Large (100-1000 MW),2.0791812460476247,Central Kalimantan
+way/1180199241,way,PLTMG MPP Nias,gas,combustion,25 MW,,1.2084754,97.6782952,False,gas,False,25.0,Fossil,Medium (10-100 MW),1.3979400086720377,North Sumatra
+way/1180199242,way,PLTG Nias,gas,combustion,25 MW,,1.2103007,97.6781772,False,gas,False,25.0,Fossil,Medium (10-100 MW),1.3979400086720377,North Sumatra
+way/1180983527,way,PLTU IPP Nagan Raya,coal,combustion,400 MW,Perusahaan Listrik Negara,4.1151476,96.2021711,False,coal,False,400.0,Fossil,Large (100-1000 MW),2.6020599913279625,Aceh
+way/1186657321,way,Unnamed,,,,PLN,-4.2818552,105.2249679,False,unknown,False,,Unknown,,,Lampung
+way/1188270208,way,Unnamed,solar,photovoltaic,yes,,0.8856043,114.6897687,False,solar,False,,Renewable,,,East Kalimantan
+way/1189446338,way,Riau Andalan Pulp & Paper Power Station,biomass,,,,0.4388772,101.8924244,False,bioenergy,False,,Renewable,,,Riau
+way/1189922860,way,PLTP Dieng,geothermal,,70 MW,Geo Dipa Energi,-7.2262861,109.8972909,False,geothermal,False,70.0,Renewable,Medium (10-100 MW),1.845098040014257,Central Java
+way/1190705190,way,Kaltim power station,,,,,-0.3842383,117.0510154,False,unknown,False,,Unknown,,,East Kalimantan
+way/1191293726,way,Bekas PLTA Sigelap,hydro,,,,-7.2686421,109.9436603,False,hydro,False,,Renewable,,,Central Java
+way/1191600975,way,PLTS Tambak Lorok,solar,photovoltaic,561 kW,PT PLN,-6.9529611,110.4323332,False,solar,False,0.561,Renewable,Small (<10 MW),-0.25103713874383854,Central Java
+way/1191857160,way,PLTMG MPP Jayapura,gas,combustion,50 MW,,-2.6169122,140.7891872,False,gas,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,Papua
+way/1191857172,way,PLTA Orya Genyem,hydro,,20 MW,,-2.6355849,140.0199124,False,hydro,False,20.0,Renewable,Medium (10-100 MW),1.3010299956639813,Papua
+way/1192474382,way,PLTP Kahara,geothermal,,30 MW,,-7.1478282,108.0843677,False,geothermal,False,30.0,Renewable,Medium (10-100 MW),1.4771212547196624,West Java
+way/1193463283,way,PLTA Larona,hydro,,165 MW,PT Vale Indonesia,-2.6681266,121.2586011,False,hydro,False,165.0,Renewable,Large (100-1000 MW),2.2174839442139063,South Sulawesi
+way/1193463288,way,PLTA Balambano,hydro,,110 MW,PT Vale Indonesia,-2.6421815,121.2170237,False,hydro,False,110.0,Renewable,Large (100-1000 MW),2.041392685158225,South Sulawesi
+way/1193463296,way,PLTA Karebbe,hydro,,90 MW,PT Vale Indonesia,-2.6666648,121.1813279,False,hydro,False,90.0,Renewable,Medium (10-100 MW),1.954242509439325,South Sulawesi
+way/1193553153,way,PLTA Poso-1,hydro,run-of-the-river,120 MW,Poso Energy,-1.6599838,120.6601486,False,hydro,False,120.0,Renewable,Large (100-1000 MW),2.0791812460476247,Central Sulawesi
+way/1195864838,way,PLTSa Bantargebang,waste,,15.6 MW,,-6.3519498,106.9974777,False,bioenergy,False,15.6,Renewable,Medium (10-100 MW),1.1931245983544616,West Java
+way/1198315805,way,PLTU Timor-1,coal,combustion,100 MW,,-10.3501327,123.4589058,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,East Nusa Tenggara
+way/1203048323,way,DSS Serang power station,,,,,-6.1252708,106.2886048,False,unknown,False,,Unknown,,,Banten
+way/1203478280,way,Unnamed,gas,combustion,112 MW,,1.0699788,101.2805214,False,gas,False,112.0,Fossil,Large (100-1000 MW),2.0492180226701815,Riau
+way/1204724030,way,Unnamed,solar,,,,2.0377257,128.2999183,False,solar,False,,Renewable,,,North Maluku
+way/1205552684,way,Unnamed,solar,,,,2.2957053,128.1798122,False,solar,False,,Renewable,,,North Maluku
+way/1211621343,way,EQUATORIAL BUMI PERSADA,coal,combustion,yes,,-1.9183304,115.0908441,False,coal,False,,Fossil,,,Central Kalimantan
+way/1214611090,way,PLTG MPP Air Anyir,gas,combustion,50 MW,,-2.0765961,106.1487126,False,gas,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,Bangka-Belitung Islands
+way/1214851463,way,Purwakarta Indorama power station,,,60 mw,,-6.5536782,107.4138664,False,unknown,False,60.0,Unknown,Medium (10-100 MW),1.7781512503836436,West Java
+way/1216609678,way,PTLD Ampenan Power Station,diesel,,,,-8.5993327,116.0746549,False,oil,False,,Fossil,,,West Nusa Tenggara
+way/1218099429,way,Medco Energi Geothermal,geothermal,,,,-8.062528,114.1565068,False,geothermal,False,,Renewable,,,East Java
+way/1218099430,way,Medco Energi Geothermal,geothermal,,,,-8.0677325,114.1750469,False,geothermal,False,,Renewable,,,East Java
+way/1218099431,way,Medco Energi Geothermal,geothermal,,,,-8.0663621,114.1727509,False,geothermal,False,,Renewable,,,East Java
+way/1218099433,way,PLTP Blawan Ijen,geothermal,,110 MW,Medco Cahaya Geothermal,-8.0566242,114.1675281,False,geothermal,False,110.0,Renewable,Large (100-1000 MW),2.041392685158225,East Java
+way/1218099434,way,Medco Energi Geothermal,geothermal,,,,-8.0504984,114.1673845,False,geothermal,False,,Renewable,,,East Java
+way/1218911487,way,Tuban Aromatics Power Station,gas,,66 mw,,-6.7691112,111.9528584,False,gas,False,66.0,Fossil,Medium (10-100 MW),1.8195439355418688,East Java
+way/1221584228,way,PLTSa Putri Cempo,waste,combustion,8 MW,,-7.5359051,110.8541558,False,bioenergy,False,8.0,Renewable,Small (<10 MW),0.9030899869919435,Central Java
+way/1221951849,way,Unnamed,solar,photovoltaic,yes,,-7.9174508,112.6355628,False,solar,False,,Renewable,,,East Java
+way/1224794317,way,PLTBg Sei Mangkei,biogas,combustion,2.4 MW,,3.127251,99.3448779,False,bioenergy,False,2.4,Renewable,Small (<10 MW),0.38021124171160603,North Sumatra
+way/1224977651,way,PLTU Sulut-1,coal,combustion,100 MW,,0.8864055,123.4688246,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,North Sulawesi
+way/1226006242,way,PLTU Well Harvest Winning,coal,combustion,220 MW,PT Well Harvest Winning Alumina Refinery,-2.3666338,110.1572199,False,coal,False,220.0,Fossil,Large (100-1000 MW),2.342422680822206,West Kalimantan
+way/1227244933,way,Unnamed,oil,combustion,yes,,3.7711009,98.6667543,False,oil,False,,Fossil,,,North Sumatra
+way/1231910573,way,Unnamed,solar,photovoltaic,yes,,0.1067593,117.4768166,False,solar,False,,Renewable,,,East Kalimantan
+way/1231910574,way,Unnamed,solar,photovoltaic,yes,,0.1078283,117.4774345,False,solar,False,,Renewable,,,East Kalimantan
+way/1231910575,way,Unnamed,solar,photovoltaic,yes,,0.1088105,117.4765714,False,solar,False,,Renewable,,,East Kalimantan
+way/1231910576,way,Unnamed,solar,photovoltaic,yes,,0.109365,117.4752228,False,solar,False,,Renewable,,,East Kalimantan
+way/1236737903,way,PLTG MPP Parit Baru,gas,combustion,100 MW,Perusahaan Listrik Negara,0.0589964,109.2038611,False,gas,False,100.0,Fossil,Medium (10-100 MW),2.0,West Kalimantan
+way/1245573861,way,电厂(9-11),,,,,0.4761076,128.0082369,False,unknown,False,,Unknown,,,North Maluku
+way/1245573862,way,电厂（1-4）,coal,combustion,yes,,0.4760793,127.9986131,False,coal,False,,Fossil,,,North Maluku
+way/1245573863,way,电厂（5-8）,coal,combustion,yes,,0.4761695,127.9946956,False,coal,False,,Fossil,,,North Maluku
+way/1245573872,way,3号变电站,,,,,0.482199,127.9887766,False,unknown,False,,Unknown,,,North Maluku
+way/1250980902,way,PLTD Telaga,,,yes,,0.5748397,123.0480209,False,oil,True,,Fossil,,,Gorontalo
+way/1255718819,way,PLTA Tonsealama,hydro,,14.38 MW,,1.3297387,124.9227638,False,hydro,False,14.38,Renewable,Medium (10-100 MW),1.1577588860468637,North Sulawesi
+way/1256159490,way,PLTA Golang,hydro,,2.7 MW,PT Pembangkitan Jawa Bali,-7.7045271,111.6600665,False,hydro,False,2.7,Renewable,Small (<10 MW),0.43136376415898736,East Java
+way/1256159501,way,PLTA Giringan,hydro,,2.2 MW,PT Pembangkitan Jawa Bali,-7.7218138,111.6746188,False,hydro,False,2.2,Renewable,Small (<10 MW),0.3424226808222063,East Java
+way/1270763074,way,PLTS Muara Nusa Dua,solar,,100 kW,,-8.727457,115.1892284,False,solar,False,0.1,Renewable,Small (<10 MW),-1.0,Bali
+way/1271028773,way,PLTU Sulbagut-1,coal,combustion,100 MW,,0.9545683,122.9996421,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,Gorontalo
+way/1273311983,way,PLTM Sako-1,hydro,,6 MW,,-2.1283044,101.2010674,False,hydro,False,6.0,Renewable,Small (<10 MW),0.7781512503836436,West Sumatra
+way/1280400266,way,Unnamed,coal,combustion,yes,,2.2143447,117.618881,False,coal,False,,Fossil,,,East Kalimantan
+way/1291862453,way,Sulawesi Labota Power Plant,coal,combustion,yes,,-2.8739151,122.1691965,False,coal,False,,Fossil,,,Central Sulawesi
+way/1303667171,way,PLTS Sumbawa,solar,photovoltaic,26.8 MW,PT Amman Mineral Nusa Tenggara,-9.0078117,116.8049889,False,solar,False,26.8,Renewable,Medium (10-100 MW),1.4281347940287887,West Nusa Tenggara
+way/1303917776,way,PLTS IKN,solar,photovoltaic,50 MW,PT Nusantara Sembcorp Solar Energi,-0.9898017,116.6382959,False,solar,False,50.0,Renewable,Medium (10-100 MW),1.6989700043360187,East Kalimantan
+way/1304188434,way,PLTA Peusangan 1,hydro,run-of-the-river,45 MW,,4.6020756,96.7427489,False,hydro,False,45.0,Renewable,Medium (10-100 MW),1.6532125137753437,Aceh
+way/1304188435,way,PLTA Peusangan 2,hydro,run-of-the-river,43 MW,,4.6500598,96.6981478,False,hydro,False,43.0,Renewable,Medium (10-100 MW),1.6334684555795864,Aceh
+way/1304735535,way,Cemindo Gemilang power station,coal,combustion,yes,,-6.9505541,106.2502233,False,coal,False,,Fossil,,,Banten
+way/1305099313,way,Fajar Coal power station,coal,combustion,55 MW,,-6.2732997,107.1239765,False,coal,False,55.0,Fossil,Medium (10-100 MW),1.7403626894942439,West Java
+way/1305099315,way,Fajar Gas power station,gas,combustion,70 MW,,-6.2751857,107.1219423,False,gas,False,70.0,Fossil,Medium (10-100 MW),1.845098040014257,West Java
+way/1309109284,way,Unnamed,,,yes,Indonesia Power,-6.8829864,112.0289678,False,unknown,False,,Unknown,,,East Java
+way/1312349205,way,PLTP Muara Laboh,geothermal,,160 MW,,-1.6013056,101.146979,False,geothermal,False,160.0,Renewable,Large (100-1000 MW),2.2041199826559246,West Sumatra
+way/1312425747,way,PLTS Gorontalo,solar,,2 MW,,0.9536174,122.5577105,False,solar,False,2.0,Renewable,Small (<10 MW),0.3010299956639812,Gorontalo
+way/1312946738,way,PLTD Sei Baya,coal,combustion,,PLN,2.8316482,117.3853796,False,coal,False,,Fossil,,,North Kalimantan
+way/1313567917,way,PLTD Sanggeng,diesel,combustion,7.5 MW,,-0.8716802,134.0659233,False,oil,False,7.5,Fossil,Small (<10 MW),0.8750612633917001,West Papua
+way/1313567921,way,PLTS Arfai,solar,photovoltaic,1 MW,,-0.9239977,134.0267712,False,solar,False,1.0,Renewable,Small (<10 MW),0.0,West Papua
+way/1313567929,way,PLTS Reremi,solar,photovoltaic,1 MW,,-0.8436382,134.0483711,False,solar,False,1.0,Renewable,Small (<10 MW),0.0,West Papua
+way/1313567930,way,PLTMG MPP Manokwari,gas,combustion,20 MW,,-0.9348179,134.015478,False,gas,False,20.0,Fossil,Medium (10-100 MW),1.3010299956639813,West Papua
+way/1313835498,way,PLTP Sokoria,geothermal,,8 MW,,-8.7929784,121.76608,False,geothermal,False,8.0,Renewable,Small (<10 MW),0.9030899869919435,East Nusa Tenggara
+way/1314006093,way,PLTA Wonorejo,hydro,,6.5 MW,PT Pembangkitan Jawa Bali,-8.0219779,111.80537,False,hydro,False,6.5,Renewable,Small (<10 MW),0.8129133566428556,East Java
+way/1314006094,way,PLTA Ngebel,hydro,,2.2 MW,PT Pembangkitan Jawa Bali,-7.8147479,111.6204173,False,hydro,False,2.2,Renewable,Small (<10 MW),0.3424226808222063,East Java
+way/1314072048,way,PLTA Sipansihaporas I,hydro,,17 MW,,1.7402548,98.8672572,False,hydro,False,17.0,Renewable,Medium (10-100 MW),1.2304489213782739,North Sumatra
+way/1315309553,way,PLTS Batam,solar,photovoltaic,1 MW,,1.1443175,104.000245,False,solar,False,1.0,Renewable,Small (<10 MW),0.0,Riau Islands
+way/1316786274,way,PLTU Sumsel 8,coal,combustion,1320 MW,PT Huadian Bukit Asam Power,-3.8391168,103.8079329,False,coal,False,1320.0,Fossil,Very large (>1000 MW),3.12057393120585,South Sumatra
+way/1321567186,way,PLTMG Rawa Minyak,oil,combustion,yes,,0.8751148,102.3538969,False,oil,False,,Fossil,,,Riau
+way/1322035311,way,PLTS Nembrala,solar,photovoltaic,100 kW,,-10.8839841,122.8307471,False,solar,False,0.1,Renewable,Small (<10 MW),-1.0,East Nusa Tenggara
+way/1322035315,way,PLTS Bilacenge,solar,photovoltaic,7000 kW,,-9.4401677,119.0796582,False,solar,False,7.0,Renewable,Small (<10 MW),0.8450980400142568,East Nusa Tenggara
+way/1322035319,way,PLTS Praimbana,solar,photovoltaic,130 kW,,-10.0089602,120.4800836,False,solar,False,0.13,Renewable,Small (<10 MW),-0.8860566476931632,East Nusa Tenggara
+way/1322035330,way,PLTS Solor Barat,solar,photovoltaic,275 kWp,PT PLN,-8.5302927,122.9381078,False,solar,False,0.275,Renewable,Small (<10 MW),-0.5606673061697374,East Nusa Tenggara
+way/1322035334,way,PLTS Palue,solar,photovoltaic,760 kW,,-8.3069116,121.7060922,False,solar,False,0.76,Renewable,Small (<10 MW),-0.11918640771920865,East Nusa Tenggara
+way/1322035336,way,PLTS Seraya Marranu,solar,photovoltaic,190 kW,,-8.3938237,119.857453,False,solar,False,0.19,Renewable,Small (<10 MW),-0.721246399047171,East Nusa Tenggara
+way/1322035338,way,PLTS Mbakung,solar,photovoltaic,260 kW,,-8.3496123,120.2529124,False,solar,False,0.26,Renewable,Small (<10 MW),-0.585026652029182,East Nusa Tenggara
+way/1322035340,way,PLTS Nangabere,solar,photovoltaic,270 kW,,-8.8188254,119.9620628,False,solar,False,0.27,Renewable,Small (<10 MW),-0.5686362358410126,East Nusa Tenggara
+way/1322035341,way,PLTS Golo Munde,solar,photovoltaic,200 kW,,-8.5194977,120.8043655,False,solar,False,0.2,Renewable,Small (<10 MW),-0.6989700043360187,East Nusa Tenggara
+way/1322035344,way,PLTS Nuca Molas,solar,photovoltaic,380 kW,,-8.8784434,120.3015548,False,solar,False,0.38,Renewable,Small (<10 MW),-0.42021640338318983,East Nusa Tenggara
+way/1322035352,way,PLTS Wontong,solar,photovoltaic,320 kW,,-8.4502505,120.2754246,False,solar,False,0.32,Renewable,Small (<10 MW),-0.494850021680094,East Nusa Tenggara
+way/1322035355,way,PLTS Mesa,solar,photovoltaic,530 kW,,-8.5258627,119.7452233,False,solar,False,0.53,Renewable,Small (<10 MW),-0.27572413039921095,East Nusa Tenggara
+way/1322035356,way,PLTS Papagarang,solar,photovoltaic,380 kW,,-8.5719699,119.7126574,False,solar,False,0.38,Renewable,Small (<10 MW),-0.42021640338318983,East Nusa Tenggara
+way/1322035357,way,PLTS Longos,solar,photovoltaic,150 kW,,-8.3476364,120.1489754,False,solar,False,0.15,Renewable,Small (<10 MW),-0.8239087409443188,East Nusa Tenggara
+way/1322681373,way,PLTS Karampuang 1,solar,photovoltaic,201.6 kW,,-2.6356846,118.8818299,False,solar,False,0.2016,Renewable,Small (<10 MW),-0.6955094722265123,West Sulawesi
+way/1322681375,way,PLTS Karampuang 2,solar,photovoltaic,115.2 kW,,-2.6275081,118.8805013,False,solar,False,0.11520000000000001,Renewable,Small (<10 MW),-0.9385475209128067,West Sulawesi
+way/1322681377,way,PLTS Karampuang 3,solar,photovoltaic,147.2 kW,,-2.6241757,118.890817,False,solar,False,0.1472,Renewable,Small (<10 MW),-0.83209218999852,West Sulawesi
+way/1322681379,way,PLTS Karampuang 4,solar,photovoltaic,134.4 kW,,-2.6455713,118.8869481,False,solar,False,0.13440000000000002,Renewable,Small (<10 MW),-0.8716007312821935,West Sulawesi
+way/1322685346,way,PLTS Kahianga,solar,photovoltaic,308.6 kW,,-5.7576757,123.9487823,False,solar,False,0.30860000000000004,Renewable,Small (<10 MW),-0.5106040782728705,Southeast Sulawesi
+way/1322685350,way,PLTS Lamanggau,solar,photovoltaic,224.4 kW,,-5.7643018,123.9032575,False,solar,False,0.22440000000000002,Renewable,Small (<10 MW),-0.6489771474158762,Southeast Sulawesi
+way/1322685353,way,PLTS Dete,solar,photovoltaic,112.2 kW,,-5.7747162,123.9739894,False,solar,False,0.11220000000000001,Renewable,Small (<10 MW),-0.9500071430798573,Southeast Sulawesi
+way/1322685356,way,PLTS Kulati,solar,photovoltaic,140.3 kW,,-5.7603693,123.9976769,False,solar,False,0.1403,Renewable,Small (<10 MW),-0.85294232897164,Southeast Sulawesi
+way/1322727205,way,PLTS Isimu,solar,photovoltaic,14.5 MW,,0.6220207,122.8409226,False,solar,False,14.5,Renewable,Medium (10-100 MW),1.1613680022349748,Gorontalo
+way/1322971756,way,PLTS Belinyu,solar,photovoltaic,1 MW,,-1.600127,105.793542,False,solar,False,1.0,Renewable,Small (<10 MW),0.0,Bangka-Belitung Islands
+way/1322972373,way,PLTS Bunyut,solar,photovoltaic,2 MW,Indo Tambangraya Megah,-0.3186849,115.8565947,False,solar,False,2.0,Renewable,Small (<10 MW),0.3010299956639812,East Kalimantan
+way/1322972849,way,PLTS Pertamina Dumai,solar,photovoltaic,2 MW,,1.6428335,101.401951,False,solar,False,2.0,Renewable,Small (<10 MW),0.3010299956639812,Riau
+way/1323444702,way,PLTU Pindodeli 2,coal,combustion,50 MW,PT Dian Swastatika Sentosa,-6.3844931,107.343123,False,coal,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,West Java
+way/1323856434,way,PLTS Selayar,solar,photovoltaic,1.398 MW,Perusahaan Listrik Negara,-6.0463458,120.4585339,False,solar,False,1.398,Renewable,Small (<10 MW),0.14550717140966257,South Sulawesi
+way/1323856435,way,PLTS Burungloe,solar,photovoltaic,100 kW,,-5.1179451,120.3913064,False,solar,False,0.1,Renewable,Small (<10 MW),-1.0,South Sulawesi
+way/1325505504,way,PLTU Wanxiang Nickel Indonesia,coal,combustion,130 MW,Wanxiang Nickel Indonesia,-2.7312858,122.031064,False,coal,False,130.0,Fossil,Large (100-1000 MW),2.113943352306837,Central Sulawesi
+way/1326070098,way,PLTS Teluk Keramat,solar,photovoltaic,75 kW,,-5.8175951,105.2721515,False,solar,False,0.075,Renewable,Small (<10 MW),-1.1249387366083,Lampung
+way/1327067558,way,Oude Waterkrachtcentrale,hydro,,yes,,-6.5619109,107.6855978,False,hydro,False,,Renewable,,,West Java
+way/1328731098,way,PLTD Legon Bajak,diesel,combustion,4.4 MW,,-5.7880762,110.4753305,False,oil,False,4.4,Fossil,Small (<10 MW),0.6434526764861874,Central Java
+way/1328731099,way,PLTS Pulau Nyamuk,solar,photovoltaic,111 kW,PT PLN,-5.8185444,110.1868241,False,solar,False,0.111,Renewable,Small (<10 MW),-0.9546770212133425,Central Java
+way/1328731111,way,PLTS Pulau Parang,solar,photovoltaic,136 kW,PT PLN,-5.7462235,110.2416875,False,solar,False,0.136,Renewable,Small (<10 MW),-0.8664610916297825,Central Java
+way/1328731127,way,PLTS Pulau Genting,solar,photovoltaic,36 kW,PT PLN,-5.8467455,110.6045884,False,solar,False,0.036000000000000004,Renewable,Small (<10 MW),-1.4436974992327127,Central Java
+way/1328732316,way,PLTS Bawean,solar,photovoltaic,408 kW,,-5.8477929,112.6456552,False,solar,False,0.40800000000000003,Renewable,Small (<10 MW),-0.38933983691012003,East Java
+way/1328732318,way,PLTMG Bawean,gas,combustion,3 MW,,-5.8481303,112.6461179,False,gas,False,3.0,Fossil,Small (<10 MW),0.47712125471966244,East Java
+way/1329301174,way,PLTD Manadotua,diesel,reciprocating_engine,250kW,PT.PLN,1.6447404,124.7093274,False,oil,False,0.25,Fossil,Small (<10 MW),-0.6020599913279624,North Sulawesi
+way/1330349516,way,PLTD Kutampi,diesel,combustion,11.7 MW,,-8.6753622,115.5545144,False,oil,False,11.7,Fossil,Medium (10-100 MW),1.0681858617461617,Bali
+way/1330349528,way,PLTS Nusa Penida,solar,photovoltaic,3.5 MW,,-8.7132835,115.5834966,False,solar,False,3.5,Renewable,Small (<10 MW),0.5440680443502757,Bali
+way/1330737251,way,PLTG Pesanggaran,gas,combustion,200 MW,,-8.719736,115.2119488,False,gas,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,Bali
+way/1331107102,way,PLTS Sei Mangkei,solar,photovoltaic,2 MW,,3.1404565,99.3602179,False,solar,False,2.0,Renewable,Small (<10 MW),0.3010299956639812,North Sumatra
+way/1331175823,way,Unnamed,solar,photovoltaic,yes,,-6.8547829,119.0977202,False,solar,False,,Renewable,,,South Sulawesi
+way/1331175824,way,PLTS Pulau Sabalona,solar,,,,-6.854833,119.0976512,False,solar,False,,Renewable,,,South Sulawesi
+way/1333370066,way,Unnamed,solar,photovoltaic,yes,,-7.3603502,121.7612906,False,solar,False,,Renewable,,,South Sulawesi
+way/1334459348,way,PLTS Terpusat Pasimarannu,solar,photovoltaic,yes,,-7.3643056,121.0836455,False,solar,False,,Renewable,,,South Sulawesi
+way/1334459373,way,PLTS Bonea,solar,photovoltaic,yes,,-7.3769495,121.1352955,False,solar,False,,Renewable,,,South Sulawesi
+way/1334459400,way,PLTS Batu Bingkung,solar,photovoltaic,yes,,-7.3679782,121.1246559,False,solar,False,,Renewable,,,South Sulawesi
+way/1334459403,way,PLTS Sambali,solar,photovoltaic,yes,,-7.3607119,121.1520298,False,solar,False,,Renewable,,,South Sulawesi
+way/1334639659,way,PLTS Menara Indah,solar,photovoltaic,yes,,-5.7540743,120.4864805,False,solar,False,,Renewable,,,South Sulawesi
+way/1335862924,way,Unnamed,solar,,,,-6.9582135,120.7870314,False,solar,False,,Renewable,,,South Sulawesi
+way/1336362230,way,PLTS Pasitallu Tangnga,solar,,,,-7.0633375,121.0979689,False,solar,False,,Renewable,,,South Sulawesi
+way/1336362251,way,PLTS Latondu,solar,,,,-6.5022263,120.9902588,False,solar,False,,Renewable,,,South Sulawesi
+way/1349227479,way,Unnamed,geothermal,,,,-7.1552134,107.7703629,False,geothermal,False,,Renewable,,,West Java
+way/1349227480,way,Unnamed,geothermal,,,,-7.1489507,107.7730666,False,geothermal,False,,Renewable,,,West Java
+way/1349709972,way,Unnamed,geothermal,,,,-7.1389339,107.7953947,False,geothermal,False,,Renewable,,,West Java
+way/1349709973,way,Unnamed,geothermal,,,,-7.1395407,107.7923892,False,geothermal,False,,Renewable,,,West Java
+way/1349718127,way,Unnamed,geothermal,,,,-7.1514237,107.7963039,False,geothermal,False,,Renewable,,,West Java
+way/1349718128,way,Unnamed,geothermal,,,,-7.149425,107.8012392,False,geothermal,False,,Renewable,,,West Java
+way/1349718129,way,Unnamed,geothermal,,,,-7.1452627,107.8018387,False,geothermal,False,,Renewable,,,West Java
+way/1349718130,way,Unnamed,geothermal,,,,-7.1244262,107.800523,False,geothermal,False,,Renewable,,,West Java
+way/1349718131,way,Unnamed,geothermal,,,,-7.1313727,107.7998592,False,geothermal,False,,Renewable,,,West Java
+way/1352261425,way,Genset Rumil,diesel,combustion,yes,Rumil UNNES,-7.0492388,110.3940688,False,oil,False,,Fossil,,,Central Java
+way/1352369452,way,Unnamed,geothermal,,,,-7.231096,107.7326994,False,geothermal,False,,Renewable,,,West Java
+way/1352369453,way,Unnamed,geothermal,,,,-7.2278796,107.7273558,False,geothermal,False,,Renewable,,,West Java
+way/1352369454,way,Unnamed,geothermal,,,,-7.2248283,107.718434,False,geothermal,False,,Renewable,,,West Java
+way/1352369455,way,Unnamed,geothermal,,,,-7.2253338,107.7099261,False,geothermal,False,,Renewable,,,West Java
+way/1352369456,way,Unnamed,geothermal,,,,-7.2315098,107.7163607,False,geothermal,False,,Renewable,,,West Java
+way/1360656288,way,Unnamed,hydro,,,,-5.1719208,120.0382491,False,hydro,False,,Renewable,,,South Sulawesi
+way/1361600216,way,Unnamed,solar,,,,3.0558239,116.1434176,False,solar,False,,Renewable,,,North Kalimantan
+way/1362008818,way,Unnamed,solar,,,,3.9888448,116.5332271,False,solar,False,,Renewable,,,North Kalimantan
+way/1362142681,way,Unnamed,solar,,,,4.2232843,116.4990023,False,solar,False,,Renewable,,,North Kalimantan
+way/1364748276,way,Unnamed,,,,Indonesia Power,-6.8763607,112.0216481,False,unknown,False,,Unknown,,,East Java
+way/1365649482,way,Unnamed,solar,,,,-6.2057332,122.7247557,False,solar,False,,Renewable,,,Southeast Sulawesi
+way/1366024639,way,Unnamed,solar,photovoltaic,yes,,-7.2797468,106.5036262,False,solar,False,,Renewable,,,West Java
+way/1366076702,way,PLTA Dago,hydro,,yes,,-6.8684298,107.6142477,False,hydro,False,,Renewable,,,West Java
+way/1366700497,way,PLTA Parakan Kondang,hydro,run-of-the-river,10 MW,,-6.8340329,108.1024671,False,hydro,False,10.0,Renewable,Small (<10 MW),1.0,West Java
+way/1367212226,way,PLTA Kedungombo,hydro,water-storage,22.5 MW,Indonesia Power,-7.2560001,110.8377765,False,hydro,False,22.5,Renewable,Medium (10-100 MW),1.3521825181113625,Central Java
+way/1367420534,way,PLTA Sempor,hydro,water-storage,yes,Indonesia Power,-7.5679524,109.4874321,False,hydro,False,,Renewable,,,Central Java
+way/1367427420,way,PLTA Wonogiri,hydro,water-storage,12.4 MW,Indonesia Power,-7.8372631,110.9263612,False,hydro,False,12.4,Renewable,Medium (10-100 MW),1.0934216851622351,Central Java
+way/1371199601,way,PLTS Treweng,solar,photovoltaic,110 kWp,PT PLN,-8.4714722,124.2797486,False,solar,False,0.11,Renewable,Small (<10 MW),-0.958607314841775,East Nusa Tenggara
+way/1371199620,way,PLTS Tribur,solar,photovoltaic,250 kWp,PT PLN,-8.4058365,124.4952014,False,solar,False,0.25,Renewable,Small (<10 MW),-0.6020599913279624,East Nusa Tenggara
+way/1371199637,way,PLTS Ternate,solar,photovoltaic,280 kWp,PT PLN,-8.2097636,124.3749957,False,solar,False,0.28,Renewable,Small (<10 MW),-0.5528419686577808,East Nusa Tenggara
+way/1371199648,way,PLTS Nule,solar,photovoltaic,250 kWp,PT PLN,-8.37253,124.2405934,False,solar,False,0.25,Renewable,Small (<10 MW),-0.6020599913279624,East Nusa Tenggara
+way/1371199703,way,PLTS Raijua,solar,photovoltaic,150 kWp,PT PLN,-10.6179725,121.5944621,False,solar,False,0.15,Renewable,Small (<10 MW),-0.8239087409443188,East Nusa Tenggara
+way/1371199721,way,PLTS Pura,solar,photovoltaic,175 kWp,Perusahaan Listrik Negara,-8.2980884,124.3214553,False,solar,False,0.17500000000000002,Renewable,Small (<10 MW),-0.7569619513137055,East Nusa Tenggara
+way/1371205002,way,PLTS Makalehi,solar,photovoltaic,260 kWp,PT PLN,2.7398911,125.1696776,False,solar,False,0.26,Renewable,Small (<10 MW),-0.585026652029182,North Sulawesi
+way/1371398238,way,PLTS Temajuk,solar,photovoltaic,371 kWp,PT PLN,2.0067549,109.598207,False,solar,False,0.371,Renewable,Small (<10 MW),-0.43062609038495414,West Kalimantan
+way/1371398249,way,PLTS Derawan,solar,photovoltaic,80 kWp,PT PLN,2.2862757,118.2434624,False,solar,False,0.08,Renewable,Small (<10 MW),-1.0969100130080565,East Kalimantan
+way/1373003292,way,Unnamed,solar,photovoltaic,yes,,-9.0847345,124.8674083,False,solar,False,,Renewable,,,East Nusa Tenggara
+way/1376673992,way,Unnamed,geothermal,,,,-7.1851776,107.4449216,False,geothermal,False,,Renewable,,,West Java
+way/1376687177,way,Unnamed,geothermal,,,,-7.17159,107.4191076,False,geothermal,False,,Renewable,,,West Java
+way/1376708741,way,PLTA Kerinci,hydro,,350 MW,PT Kerinci Merangin Hidro,-2.2172865,101.6723425,False,hydro,False,350.0,Renewable,Large (100-1000 MW),2.5440680443502757,Jambi
+way/1377712181,way,Unnamed,hydro,,,,-7.1997152,107.2323051,False,hydro,False,,Renewable,,,West Java
+way/1377712190,way,Unnamed,hydro,,,,-7.2016911,107.2521052,False,hydro,False,,Renewable,,,West Java
+way/1381155744,way,PLTS Koja besar,solar,photovoltaic,yes,,-8.4880505,122.3932506,False,solar,False,,Renewable,,,East Nusa Tenggara
+way/1381160881,way,PLTS Parumaan,solar,photovoltaic,yes,,-8.4531407,122.4435984,False,solar,False,,Renewable,,,East Nusa Tenggara
+way/1383897662,way,Unnamed,solar,photovoltaic,yes,,-5.1486883,119.2649187,False,solar,False,,Renewable,,,South Sulawesi
+way/1390617059,way,Unnamed,solar,photovoltaic,yes,,0.8035551,102.0218266,False,solar,False,,Renewable,,,Riau
+way/1394466750,way,PLTU Tembilahan,coal,combustion,14 MW,,-0.2985338,103.204527,False,coal,False,14.0,Fossil,Medium (10-100 MW),1.146128035678238,Riau
+way/1394466866,way,PLTU PT Inhil Sarimas Kelapa,coal,combustion,15 MW,,-0.5181603,102.9158625,False,coal,False,15.0,Fossil,Medium (10-100 MW),1.1760912590556813,Riau
+way/1411100174,way,PLTS Indocement,solar,photovoltaic,15 MW,,-3.256105,116.112217,False,solar,False,15.0,Renewable,Medium (10-100 MW),1.1760912590556813,South Kalimantan
+way/1412768767,way,PLTA Timo,hydro,run-of-the-river,12 MW,Indonesia Power,-7.215805,110.5014538,False,hydro,False,12.0,Renewable,Medium (10-100 MW),1.0791812460476249,Central Java
+way/1415973962,way,PLTMH Cileunca,hydro,water-storage,1 MW,,-7.1846921,107.5469605,False,hydro,False,1.0,Renewable,Small (<10 MW),0.0,West Java
+way/1416014231,way,PLTA Lamajan,hydro,water-storage,19.56 MW,Indonesia Power,-7.1412395,107.5536895,False,hydro,False,19.56,Renewable,Medium (10-100 MW),1.2913688504515826,West Java
+way/1416015950,way,PLTA Cikalong,hydro,water-storage,19.2 MW,Indonesia Power,-7.1150215,107.5499379,False,hydro,False,19.2,Renewable,Medium (10-100 MW),1.2833012287035497,West Java
+way/1416902041,way,PLTS Bali Timur,solar,photovoltaic,25 MW,Medco Solar Bali Timur,-8.2185336,115.5085825,False,solar,False,25.0,Renewable,Medium (10-100 MW),1.3979400086720377,Bali
+way/1416911382,way,PLTU Ambunu,coal,combustion,350 MW,Indonesia Huabao Industrial Park,-2.2591674,121.7716482,False,coal,False,350.0,Fossil,Large (100-1000 MW),2.5440680443502757,Central Sulawesi
+way/1434857505,way,PLTD Sei Raya Kalbar,oil,combustion,65 MW,Perusahaan Listrik Negara,-0.072842,109.3806946,False,oil,False,65.0,Fossil,Medium (10-100 MW),1.8129133566428555,West Kalimantan
+way/1444676313,way,PLTS Kayuadi,solar,photovoltaic,yes,,-6.7875933,120.7962051,False,solar,False,,Renewable,,,South Sulawesi
+way/1448296632,way,PLTB Nusa Penida,wind,wind_turbine,720 kW,,-8.7309658,115.5313508,False,wind,False,0.72,Renewable,Small (<10 MW),-0.14266750356873156,Bali
+way/1448296633,way,PLTB Nusa Penida,wind,wind_turbine,720 kW,,-8.7305379,115.529883,False,wind,False,0.72,Renewable,Small (<10 MW),-0.14266750356873156,Bali
+way/1448296634,way,PLTB Nusa Penida,wind,wind_turbine,720 kW,,-8.7292583,115.5360553,False,wind,False,0.72,Renewable,Small (<10 MW),-0.14266750356873156,Bali
+way/1448296635,way,PLTB Nusa Penida,wind,wind_turbine,720 kW,,-8.731379,115.5364972,False,wind,False,0.72,Renewable,Small (<10 MW),-0.14266750356873156,Bali
+way/1448296636,way,PLTB Nusa Penida,wind,wind_turbine,720 kW,,-8.7292417,115.5299301,False,wind,False,0.72,Renewable,Small (<10 MW),-0.14266750356873156,Bali
+way/1448296637,way,PLTB Nusa Penida,wind,wind_turbine,720 kW,,-8.7293502,115.5314767,False,wind,False,0.72,Renewable,Small (<10 MW),-0.14266750356873156,Bali
+way/1448296638,way,PLTB Nusa Penida,wind,wind_turbine,720 kW,,-8.7360902,115.5256361,False,wind,False,0.72,Renewable,Small (<10 MW),-0.14266750356873156,Bali
+way/1448296639,way,PLTB Nusa Penida,wind,wind_turbine,720 kW,,-8.7347831,115.5274558,False,wind,False,0.72,Renewable,Small (<10 MW),-0.14266750356873156,Bali
+way/1453797217,way,Unnamed,solar,photovoltaic,yes,,2.6907285,115.7283033,False,solar,False,,Renewable,,,North Kalimantan
+way/1454217130,way,Unnamed,,,,Perusahaan Listrik Negara,-5.1645,119.4451942,False,unknown,False,,Unknown,,,South Sulawesi
+way/1454217132,way,Unnamed,,,,Perusahaan Listrik Negara,-5.1655327,119.4476742,False,unknown,False,,Unknown,,,South Sulawesi
+way/1455366530,way,Unnamed,solar,photovoltaic,yes,,4.3011171,117.301879,False,solar,False,,Renewable,,,North Kalimantan
+way/1456210720,way,Unnamed,solar,photovoltaic,yes,,3.9725752,117.0205272,False,solar,False,,Renewable,,,North Kalimantan
+way/1456916345,way,Unnamed,,,,,5.4500965,95.2450231,False,unknown,False,,Unknown,,,Aceh
+way/1460559922,way,Unnamed,,,,,4.0168942,97.2996323,False,unknown,False,,Unknown,,,Aceh
+way/1460653376,way,Unnamed,solar,,,,2.8339237,116.1515622,False,solar,False,,Renewable,,,North Kalimantan
+way/1461865713,way,Unnamed,hydro,,yes,,3.3991048,98.2274956,False,hydro,False,,Renewable,,,North Sumatra
+way/1462469867,way,Bendungan Sei Silam,hydro,,yes,,0.329262,100.9057351,False,hydro,False,,Renewable,,,Riau
+way/1465274116,way,Unnamed,waste,combustion,,,-6.5172237,106.889707,False,bioenergy,False,,Renewable,,,West Java
+way/1468673523,way,PLTMG Sekupang,gas,,50 MW,Perusahaan Listrik Negara,1.1107694,103.946338,False,gas,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,Riau Islands
+way/1469884017,way,PLTS DESA PULAU BUAYA,solar,photovoltaic,yes,,-8.1821066,124.3740605,False,solar,False,,Renewable,,,East Nusa Tenggara
+way/1486879043,way,PLTS Citeureup,solar,,32.5 MW,,-6.5010137,106.9427969,False,solar,False,32.5,Renewable,Medium (10-100 MW),1.5118833609788744,West Java
+way/1497548536,way,Unnamed,solar,photovoltaic,yes,,1.982936,116.5295215,False,solar,False,,Renewable,,,East Kalimantan
+way/1504769297,way,PLTU Soma Daya Utama,coal,combustion,62 MW,,1.0534889,103.3150219,False,coal,False,62.0,Fossil,Medium (10-100 MW),1.792391689498254,Riau Islands
+way/1504769383,way,PLTS Karimun,solar,photovoltaic,5 MW,Karimun Power,1.0122481,103.3519128,False,solar,False,5.0,Renewable,Small (<10 MW),0.6989700043360189,Riau Islands
+way/1509743156,way,Unnamed,hydro,,,,-6.7004968,107.3703759,False,hydro,False,,Renewable,,,West Java
+way/1513040072,way,Sumsel-1 power station,coal,combustion,300 MW,,-3.4778649,103.9983845,False,coal,False,300.0,Fossil,Large (100-1000 MW),2.4771212547196626,South Sumatra
+way/1520532323,way,PLTA Lau Gunung,hydro,,,,3.0161174,98.1481929,False,hydro,False,,Renewable,,,North Sumatra
+way/1523515812,way,Unnamed,solar,photovoltaic,427 kW,Swimsol,2.5149073,106.0414655,False,solar,False,0.427,Renewable,Small (<10 MW),-0.36957212497497616,Riau Islands
+way/1526101287,way,PLTA Batang Agam,hydro,,,,-0.2728306,100.5543678,False,hydro,False,,Renewable,,,West Sumatra
+way/1526281514,way,PLTA Batang Toru,hydro,run-of-the-river,510 MW,North Sumatra Hydro Energy,1.5141312,99.1298437,False,hydro,False,510.0,Renewable,Large (100-1000 MW),2.7075701760979363,North Sumatra
+way/1527450756,way,Unnamed,hydro,,yes,,0.3782714,123.4735127,False,hydro,False,,Renewable,,,Gorontalo
+way/1527450758,way,Unnamed,hydro,,yes,,0.3606045,123.4673987,False,hydro,False,,Renewable,,,Gorontalo
+way/1529422617,way,PLTU Palu-3,coal,combustion,100 MW,,-0.6410936,119.807917,False,coal,False,100.0,Fossil,Medium (10-100 MW),2.0,Central Sulawesi
+way/1529769094,way,PLTG Jeranjang,gas,combustion,50 MW,Perusahaan Listrik Negara,-8.6605706,116.0735419,False,gas,False,50.0,Fossil,Medium (10-100 MW),1.6989700043360187,West Nusa Tenggara
+way/1529769095,way,PLTD Jeranjang,diesel,combustion,3 MW,Potensi Lombok Power,-8.6601129,116.0748532,False,oil,False,3.0,Fossil,Small (<10 MW),0.47712125471966244,West Nusa Tenggara
+way/1531331128,way,Unnamed,solar,photovoltaic,yes,,-6.0611606,106.4618531,False,solar,False,,Renewable,,,Banten
+way/1531331741,way,Unnamed,solar,photovoltaic,yes,,-3.5177717,115.008236,False,solar,False,,Renewable,,,South Kalimantan
+way/1531702495,way,PLTS Pertiwi Lestari,solar,photovoltaic,36 MW,,-6.385135,107.2716161,False,solar,False,36.0,Renewable,Medium (10-100 MW),1.5563025007672873,West Java
+way/1541292090,way,PLTU Indominco Mandiri,coal,combustion,14 MW,Indominco Mandiri,0.0199704,117.4757632,False,coal,False,14.0,Fossil,Medium (10-100 MW),1.146128035678238,East Kalimantan
+way/1541292091,way,PLTS Indominco Mandiri,solar,,3 MW,Indominco Mandiri,0.0198135,117.4781786,False,solar,False,3.0,Renewable,Small (<10 MW),0.47712125471966244,East Kalimantan
+way/1543215976,way,PLTG Minas,gas,combustion,100 MW,Pertamina Hulu Rokan,0.7453247,101.4642468,False,gas,False,100.0,Fossil,Medium (10-100 MW),2.0,Riau
+way/1547838415,way,PLTD Kangean,diesel,,,Perusahaan Listrik Negara,-6.8401148,115.2285274,False,oil,False,,Fossil,,,East Java
+way/1548261236,way,PLTU Kariangau Power,coal,combustion,30 MW,Kariangau Power,-1.1982646,116.8017429,False,coal,False,30.0,Fossil,Medium (10-100 MW),1.4771212547196624,East Kalimantan
+way/1549274351,way,Unnamed,solar,photovoltaic,yes,,-1.5245525,135.8326186,False,solar,False,,Renewable,,,Papua
+way/1549759009,way,Unnamed,coal,combustion,yes,,-6.4870941,107.38919,False,coal,False,,Fossil,,,West Java
+way/1551794520,way,PLTMG Nabire,gas,combustion,20 MW,,-3.3798196,135.4610609,False,gas,False,20.0,Fossil,Medium (10-100 MW),1.3010299956639813,Papua
+way/1551794521,way,PLTMG Nabire 2,gas,combustion,10 MW,,-3.3785759,135.4577042,False,gas,False,10.0,Fossil,Small (<10 MW),1.0,Papua
+way/1553775548,way,Unnamed,solar,,,,-6.6771179,120.4360527,False,solar,False,,Renewable,,,South Sulawesi
+way/1553857792,way,Unnamed,hydro,,,,4.5957884,96.7635881,False,hydro,False,,Renewable,,,Aceh
+way/1554699265,way,Unnamed,solar,photovoltaic,yes,,-6.5444518,120.9988019,False,solar,False,,Renewable,,,South Sulawesi
+way/1558353716,way,PLTS Sembur,solar,photovoltaic,0.92 MW,,0.6755361,104.3003319,False,solar,False,0.92,Renewable,Small (<10 MW),-0.036212172654444715,Riau Islands
+way/1559469659,way,Unnamed,diesel,combustion,,,2.2902033,128.1673554,False,oil,False,,Fossil,,,North Maluku
+way/1567141422,way,PLTU Aspex Kumbong,coal,combustion,21.4 MW,Aspex Kumbong,-6.4267277,106.9539106,False,coal,False,21.4,Fossil,Medium (10-100 MW),1.3304137733491908,West Java
+way/1569854359,way,Pembangkit Listrik Tenaga Diesel dan Gas Tarahan,oil;gas,combustion,yes,,-5.5102915,105.3410339,True,oil,False,,Fossil,,,Lampung
+way/1569854365,way,Pembangkit Listrik Tenaga Gas Mobile Power Plant Tarahan,gas,combustion,100 MW,Perusahaan Listrik Negara,-5.5186263,105.3458829,False,gas,False,100.0,Fossil,Medium (10-100 MW),2.0,Lampung
+way/1569886200,way,Pembangkit Listrik Tenaga Uap Pelabuhan Tarahan,coal,combustion,16 MW,PT Bukit Energi Servis Terpadu,-5.5118377,105.3417869,False,coal,False,16.0,Fossil,Medium (10-100 MW),1.2041199826559248,Lampung
+way/1573501880,way,PLTD Pura,diesel,,yes,Perusahaan Listrik Negara,-8.2773591,124.3523805,False,oil,False,,Fossil,,,East Nusa Tenggara
+way/1573694541,way,PLTD Kalabahi,diesel,,yes,Perusahaan Listrik Negara,-8.2190183,124.5372972,False,oil,False,,Fossil,,,East Nusa Tenggara
+way/1575349705,way,Unnamed,solar,,,,-2.8732248,107.0135884,False,solar,False,,Renewable,,,Bangka-Belitung Islands
+way/1575349706,way,Unnamed,solar,,,,-2.8734328,107.0135734,False,solar,False,,Renewable,,,Bangka-Belitung Islands
+relation/7406922,relation,PLTP Kamojang,geothermal,,235.85 MW,Indonesia Power;Pertamina Geothermal Energy,-7.1397629,107.7857855,False,geothermal,False,235.85,Renewable,Large (100-1000 MW),2.3726358805817207,West Java
+relation/7625982,relation,PLTD Kota Sorong,,,,,-0.8790946,131.2603534,False,oil,True,,Fossil,,,West Papua
+relation/10113339,relation,PLTU Cikarang Babelan,coal,combustion,280 MW,PT Cikarang Listrindo Power Company,-6.1165849,107.0514438,False,coal,False,280.0,Fossil,Large (100-1000 MW),2.4471580313422194,West Java
+relation/10694862,relation,PLTB Tolo,wind,wind_turbine,72 MW,Perusahaan Listrik Negara,-5.6292833,119.763657,False,wind,False,72.0,Renewable,Medium (10-100 MW),1.8573324964312685,South Sulawesi
+relation/12405779,relation,Perawang Mill Coal Power Plant,coal,combustion,yes,,0.6895688,101.6188519,False,coal,False,,Fossil,,,Riau
+relation/13245083,relation,Pembangkit Listrik Tenaga Air Bakaru,hydro,,130 MW,,-3.4646598,119.6290666,False,hydro,False,130.0,Renewable,Large (100-1000 MW),2.113943352306837,South Sulawesi
+relation/14127028,relation,PLTGU Keramasan,gas,,80 MW,,-3.0316148,104.7449351,False,gas,False,80.0,Fossil,Medium (10-100 MW),1.9030899869919435,South Sumatra
+relation/14439475,relation,PLN Area Pasuruan,,,,Perusahaan Listrik Negara,-7.652269,112.9002799,False,unknown,False,,Unknown,,,East Java
+relation/16305203,relation,PTLU Cirebon,coal,combustion,yes,,-6.7736638,108.6238972,False,coal,False,,Fossil,,,West Java
+relation/17194068,relation,Unnamed,,,yes,,-6.7834359,111.7776777,False,unknown,False,,Unknown,,,East Java
+relation/17285692,relation,Unnamed,,,,,-6.7836247,111.7837553,False,unknown,False,,Unknown,,,East Java
+relation/17315973,relation,PT. Cassava Buana Wira Jatim,,,,,-6.7903822,111.7951814,False,unknown,False,,Unknown,,,East Java
+relation/17367092,relation,Unnamed,,,,,-7.0844574,112.1088687,False,unknown,False,,Unknown,,,East Java
+relation/17414003,relation,Unnamed,,,,,-6.9606762,111.7156959,False,unknown,False,,Unknown,,,East Java
+relation/17882002,relation,PLTS Kota Bukit Indah,solar,photovoltaic,100 MW,,-6.4533535,107.4621785,False,solar,False,100.0,Renewable,Medium (10-100 MW),2.0,West Java
+relation/17940643,relation,Unnamed,,,,,4.1080821,96.1994004,False,unknown,False,,Unknown,,,Aceh
+relation/18148217,relation,PLTS Pertamina Cilacap,solar,photovoltaic,1.34 MW,,-7.703451,109.0441292,False,solar,False,1.34,Renewable,Small (<10 MW),0.12710479836480765,Central Java
+relation/18294398,relation,Pembangkit Listrik Tenaga Air Lodoyo,hydro,,7.88MW,,-8.1490885,112.1903692,False,hydro,False,7.88,Renewable,Small (<10 MW),0.8965262174895553,East Java
+relation/18778100,relation,Unnamed,,,yes,Indonesia Power,-6.8795151,112.024733,False,unknown,False,,Unknown,,,East Java
+relation/18815647,relation,Pembangkit Listrik Tenaga Air Jatigede,hydro,,110 MW,,-6.8425086,108.1037424,False,hydro,False,110.0,Renewable,Large (100-1000 MW),2.041392685158225,West Java
+relation/19123845,relation,PLTA Poso-2,hydro,run-of-the-river,395 MW,Poso Energy,-1.6453984,120.6516728,False,hydro,False,395.0,Renewable,Large (100-1000 MW),2.59659709562646,Central Sulawesi
+relation/19387721,relation,PLTP Rantau Dedap,geothermal,,91 MW,,-4.2225041,103.3825072,False,geothermal,False,91.0,Renewable,Medium (10-100 MW),1.9590413923210936,South Sumatra
+relation/21724790,relation,Pembangkit Listrik Tenaga Uap Tarahan,coal,combustion,200 MW,PLN Nusantara Power,-5.5220991,105.3520412,False,coal,False,200.0,Fossil,Large (100-1000 MW),2.3010299956639813,Lampung
